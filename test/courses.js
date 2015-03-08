@@ -9,4 +9,8 @@ describe('courses', function() {
     expect(courses.canTake(['CS 1337', 'CS 2300'], courses.details('CS 3340'))).to.be.false;
   });
 
+  it('should allow taking courses with no prereqs or coreqs', function() {
+    expect(courses.canTake(['CS 1337', 'CS 2305'], courses.details('MUSI 1306'))).to.be.true;
+  });
+
 });
