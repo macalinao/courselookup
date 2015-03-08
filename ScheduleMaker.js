@@ -1,4 +1,5 @@
 var desired = [] //the input of desired courses to be added to the schedule
+sectak.json
 var xmlhttp = new XMLHttpRequest();
 var url = "The special url";
 
