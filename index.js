@@ -4,6 +4,8 @@ var request = require('superagent-bluebird-promise');
 
 var BASE = 'http://catalog.utdallas.edu/2014/undergraduate/courses/';
 
+var depts = JSON.parse(require('fs').readFileSync('departments.json').toString());
+
 function findCourses(dept) {
   return request.get(BASE + dept).promise().then(function(res) {
     var $ = cheerio.load(res.text);
