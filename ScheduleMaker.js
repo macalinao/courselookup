@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-    
-<div id="id01"></div>
-    
-<script>
-var Array = [] //the input of desired courses to be added to the schedule
+var desired = [] //the input of desired courses to be added to the schedule
 var xmlhttp = new XMLHttpRequest();
 var url = "The special url";
 
@@ -24,19 +17,26 @@ function myFunction(response) {
     out += "</table>"
     document.getElementById("id01").innerHTML = out;
 }
-var options = [];
-for(i = 0; i < array[0].length; i++) {
-    for(j = 1; j < array.length; j++){
-	for(l = 0; l < array[j].length; l++){
-	    for(k = 0; options[k] != null && k < options.length; k ++){
-		if(array[i][j].StartTime > options[k].EndTime || options[k].Start > array[i][j].EndTime){
-		    options[k+1] = array[i][j];
-		}		
+function check(s1, s2){
+    if((s1.start < s2.end && s1.end > s2.end) || (s2.start < s1.end && s2.end > s1.end))
+	return false;
+    return true;
+}
+var options = [desired.length];
+var finalList = [];
+function generate(course){
+    for(i = 0; i < array[course].length; i++){
+	for(j = 0; j < options.length && options[j]!= null; j++){
+	    if(check(options[j], desired[course][i])){
+		options[course] = desired[course][i];
+		if(course == desired.length - 1){
+		    finalList[finalList.length] = options;
+		}else{
+		    generate(course + 1);
+		}
 	    }
 	}
     }
 }
-</script>
-
-</body>
-</html>
+generate(0);
+//Display the contents of finalList[] as you please
