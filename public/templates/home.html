@@ -34,10 +34,14 @@
   <div class="col-md-4">
     <h2>Suggested Courses</h2>
 
-    <ul>
-      <li ng-repeat="c in suggested">
-      </li>
-    </ul>
+    <button class="btn btn-primary" ng-click="generate()">Generate Plan</button>
+
+    <div ng-repeat="s in suggested">
+      <h2>Semester {{ $index + 1 }}</h2>
+      <ul>
+        <li ng-repeat="c in s">{{ c.name }} ({{ c.hours }})</li>
+      </ul>
+    </div>
 
   </div>
 </div>

@@ -48,4 +48,15 @@ angular.module('app', ['ui.router'])
   $http.get('/data/pending.json').then(function(res) {
     $scope.pending = res.data;
   });
+
+  $scope.suggested = [];
+  $scope.generate = function() {
+    $http.post('/plan', {
+      taken: $scope.taken,
+      pending: $scope.pending,
+      load: 16
+    }).then(function(res) {
+      $scope.suggested = res.data;
+    });
+  };
 });
