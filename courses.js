@@ -9,7 +9,7 @@ module.exports = {
 
       // Check if a course matches in taken.
       return or.filter(function(c) {
-        return taken.indexOf(c) !== -1;
+        return taken.indexOf(c) === -1;
       }).length >= or.length;
       // Return false if one does.
 
