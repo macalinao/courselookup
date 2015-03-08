@@ -22,7 +22,6 @@ module.exports = function planDegree(taken, pending, load) {
     }).filter(function(course) {
       return courses.canTake(taken, course);
     }).map(function(course) {
-      rem.push(course.name);
       return course;
     });
 
@@ -34,6 +33,7 @@ module.exports = function planDegree(taken, pending, load) {
       var next = eligible.pop();
       if (remaining - next.hours > 0) {
         sem.push(next);
+        rem.push(next.name);
         remaining -= next.hours;
       }
     }
