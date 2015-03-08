@@ -34,6 +34,7 @@ module.exports = function planDegree(taken, pending, load) {
       var next = eligible.pop();
       if (remaining - next.hours > 0) {
         sem.push(next);
+        remaining -= next.hours;
       }
     }
 
