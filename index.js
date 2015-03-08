@@ -6,6 +6,8 @@ var app = express();
 
 app.use(require('body-parser').json());
 
+app.use(express.static(__dirname + '/public'));
+
 app.post('/plan', function(req, res) {
   res.json(plan(req.body.taken, req.body.pending, req.body.load));
 });
