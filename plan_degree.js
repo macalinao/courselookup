@@ -44,7 +44,10 @@ module.exports = function planDegree(taken, pending, load) {
     }
 
     // Add to plan
-    plan.push(sem);
+    plan.push({
+      hours: load - remaining,
+      classes: sem
+    });
 
     // Remove from pending
     rem.map(function(course) {

@@ -37,9 +37,9 @@
     <button class="btn btn-primary" ng-click="generate()">Generate Plan</button>
 
     <div ng-repeat="s in suggested">
-      <h2>Semester {{ $index + 1 }}</h2>
+      <h2>Semester {{ $index + 1 }} ({{ s.hours }} hours)</h2>
       <ul>
-        <li ng-repeat="c in s">{{ c.name }} ({{ c.hours }})</li>
+        <li ng-repeat="c in s.classes">{{ c.name }} ({{ c.hours }})</li>
       </ul>
     </div>
 
