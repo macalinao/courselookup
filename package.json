@@ -6,6 +6,7 @@
     "bluebird": "^2.9.13",
     "cheerio": "^0.18.0",
     "express": "^4.12.2",
+    "lodash": "^3.4.0",
     "superagent": "^0.21.0",
     "superagent-bluebird-promise": "^1.1.0"
   },
