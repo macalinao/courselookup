@@ -33,7 +33,7 @@ function findCourses(dept) {
               el = el.substring(1, close);
             }
           }
-          return el;
+          return el.split(' or ');
         });
       }
 
