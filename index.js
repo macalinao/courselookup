@@ -37,12 +37,30 @@ function findCourses(dept) {
         });
       }
 
+      var coreq = (descs.filter(function(el) {
+        return el.indexOf('or Corequisite') !== -1;
+      }) || [])[0];
+      if (coreq) {
+        var coreqs = coreq.substring(coreq.indexOf(':') + 2).split(' and ').map(function(el) {
+          while (el.indexOf('(') === 0) {
+            var close = el.indexOf(')');
+            if (close === -1) {
+              el = el.substring(1);
+            } else {
+              el = el.substring(1, close);
+            }
+          }
+          return el.split(' or ');
+        });
+      }
+
       ret.push({
         name: name,
         title: title,
         hours: hours,
         desc: desc,
-        prereqs: prereqs
+        prereqs: prereqs,
+        coreqs: coreqs
       });
     });
     return ret;
