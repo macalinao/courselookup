@@ -5,10 +5,15 @@ module.exports = {
 
   // Checks if we can take a course
   canTake: function(taken, course) {
-    for (var i = 0; i < course.prereqs.length; i++) {
-      if (taken.indexOf(course.prereqs[i]) === -1) return false;
-    }
-    return true;
+    return course.prereqs.filter(function(or) {
+
+      // Check if a course matches in taken.
+      return or.filter(function(c) {
+        return taken.indexOf(c) !== -1;
+      }).length >= or.length;
+      // Return false if one does.
+
+    }).length === 0;
   },
 
   details: function(courseName) {
