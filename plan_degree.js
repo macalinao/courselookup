@@ -31,10 +31,17 @@ module.exports = function planDegree(taken, pending, load) {
     eligible = _.shuffle(eligible);
     while (eligible.length > 0 && remaining > 0) {
       var next = eligible.pop();
-      if (remaining - next.hours > 0) {
-        sem.push(next);
-        rem.push(next.name);
-        remaining -= next.hours;
+      var add = [next];
+      var hrs = add.reduce(function(a, b) {
+        return a + b.hours;
+      }, 0);
+
+      if (remaining - hrs > 0) {
+        add.map(function(c) {
+          sem.push(c);
+          rem.push(c.name);
+        });
+        remaining -= hrs;
       }
     }
 
