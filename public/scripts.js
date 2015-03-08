@@ -27,4 +27,17 @@ angular.module('app', ['ui.router'])
     }
     $scope.takenName = '';
   };
+
+  $scope.pending = [];
+
+  $scope.addPending = function() {
+    if ($scope.pending.indexOf($scope.pendingName) !== -1) {
+      alert('Class already added!');
+    } else if (!/^[A-Z]+ [\d]{4}$/.test($scope.pendingName)) {
+      alert('Invalid class name!');
+    } else {
+      $scope.pending.push($scope.pendingName);
+    }
+    $scope.pendingName = '';
+  };
 });
