@@ -668,7 +668,9 @@
   "desc": "This course is a graduation requirement for all freshmen in the School of Arts and Humanities (A&H). Incoming freshmen will learn about the intellectual and cultural environment in the School of Arts and Humanities through lectures, activities, guest panels, and attendance at artistic and cultural events. Students will also learn about A&H majors (Art and Performance, Arts and Technology, Emerging Media and Communication, Historical Studies, and Literary Studies), research opportunities, careers, and internships. This course is open to all non-A&H majors. Corequisite: UNIV 1010. (1-0) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "ARHM 2340",
   "title": "Creativity",
@@ -1605,7 +1607,9 @@
   "desc": "This course is an introduction to the study of business, with exposure to each of the business disciplines. Students will be introduced to the functional areas of business, learn about social entrepreneurship, begin to plan their business careers, and present a simple business plan. Required for all freshman Naveen Jindal School of Management majors; open to all non-School of Management majors. Corequisite: UNIV 1010. (1-0) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "BA 3100",
   "title": "Professional Development",
@@ -1645,7 +1649,9 @@
   "desc": "For students conducting independent research for honors theses or projects. Corequisite: BA 4299 and instructor consent required. (1-0) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BA 4299"]
+  ]
 }, {
   "name": "BA 4299",
   "title": "Thesis Research Methods and Writing Seminar",
@@ -1831,7 +1837,9 @@
     ["CHEM 1312"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 2311"]
+  ]
 }, {
   "name": "BIOL 2112",
   "title": "Introduction to Modern Biology Workshop II",
@@ -1839,7 +1847,9 @@
   "desc": "Problem solving and discussion related to the subject matter in BIOL 2312. Corequisite: BIOL 2312. (1-0) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 2312"]
+  ]
 }, {
   "name": "BIOL 2281",
   "title": "Introductory Biology Laboratory",
@@ -1860,7 +1870,9 @@
     ["CHEM 1312"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 2111"]
+  ]
 }, {
   "name": "BIOL 2312",
   "title": "Introduction to Modern Biology II",
@@ -1868,7 +1880,9 @@
   "desc": "Continuation of BIOL 2311. The overall emphasis will be on organ physiology and regulatory mechanisms involving individual organs and organ systems. Factors considered will be organ development and structure, evolutionary processes and biological diversity, and their effects on physiological mechanisms regulating the internal environment. Corequisite: BIOL 2112. (3-0) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 2112"]
+  ]
 }, {
   "name": "BIOL 2350",
   "title": "Biological Basis of Health and Disease",
@@ -1912,7 +1926,9 @@
     ["CHEM 2323"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3301"]
+  ]
 }, {
   "name": "BIOL 3102",
   "title": "Eukaryotic Molecular and Cell Biology Workshop",
@@ -1923,7 +1939,9 @@
     ["BIOL 3361", "CHEM 3361"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3302"]
+  ]
 }, {
   "name": "BIOL 3110",
   "title": "Nanomedicine Workshop",
@@ -1942,7 +1960,9 @@
     ["CHEM 2325"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3361", "CHEM 3361"]
+  ]
 }, {
   "name": "BIOL 3162",
   "title": "Biochemistry Workshop II",
@@ -1952,7 +1972,9 @@
     ["BIOL 3361", "CHEM 3361"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3362", "CHEM 3362"]
+  ]
 }, {
   "name": "BIOL 3301",
   "title": "Classical and Molecular Genetics",
@@ -1964,7 +1986,9 @@
     ["CHEM 2323"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3101"]
+  ]
 }, {
   "name": "BIOL 3302",
   "title": "Eukaryotic Molecular and Cell Biology",
@@ -1975,7 +1999,9 @@
     ["BIOL 3361", "CHEM 3361"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3102"]
+  ]
 }, {
   "name": "BIOL 3305",
   "title": "Evolutionary Analysis",
@@ -2060,7 +2086,9 @@
     ["CHEM 2325"]
   ],
   "sameAs": ["CHEM 3361"],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3161"]
+  ]
 }, {
   "name": "BIOL 3362",
   "title": "Biochemistry II",
@@ -2070,7 +2098,9 @@
     ["BIOL 3361", "CHEM 3361"]
   ],
   "sameAs": ["CHEM 3362"],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3162"]
+  ]
 }, {
   "name": "BIOL 3370",
   "title": "Exercise Physiology",
@@ -2717,7 +2747,9 @@
   "desc": "This course is designed to introduce students to the programs offered through the School of Interdisciplinary Studies and to assist students adjust to university life. Corequisite: UNIV 1010. (1-0) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "BIS 2V90",
   "title": "Topics in Interdisciplinary Studies",
@@ -2982,7 +3014,9 @@
     ["BMEN 2320"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BMEN 3101"]
+  ]
 }, {
   "name": "BMEN 3310",
   "title": "Fluid Mechanics and Transport Processes in Biomedical Engineering",
@@ -2993,7 +3027,9 @@
     ["BMEN 3301"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BMEN 3110"]
+  ]
 }, {
   "name": "BMEN 3315",
   "title": "Thermodynamics and Physical Chemistry in Biomedical Engineering",
@@ -3083,7 +3119,9 @@
     ["RHET 1302"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["BMEN 4310"]
+  ]
 }, {
   "name": "BMEN 4310",
   "title": "Feedback Systems in Biomedical Engineering",
@@ -3290,7 +3328,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["EE 3101", "TE 3101"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3301"]
+  ]
 }, {
   "name": "CE 3102",
   "title": "Signals and Systems Laboratory",
@@ -3300,7 +3340,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["EE 3102", "TE 3102"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3302"]
+  ]
 }, {
   "name": "CE 3110",
   "title": "Electronic Devices Laboratory",
@@ -3310,7 +3352,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["EE 3110"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3310", "EE 3310"]
+  ]
 }, {
   "name": "CE 3111",
   "title": "Electronic Circuits Laboratory",
@@ -3320,7 +3364,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["EE 3111"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3311", "EE 3311"]
+  ]
 }, {
   "name": "CE 3120",
   "title": "Digital Circuits Laboratory",
@@ -3330,7 +3376,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["EE 3120"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3320", "EE 3320"]
+  ]
 }, {
   "name": "CE 3301",
   "title": "Electrical Network Analysis",
@@ -3341,7 +3389,9 @@
     ["PHYS 2326"]
   ],
   "sameAs": ["EE 3301", "TE 3301"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3101"]
+  ]
 }, {
   "name": "CE 3302",
   "title": "Signals and Systems",
@@ -3351,7 +3401,9 @@
     ["ENGR 3300"]
   ],
   "sameAs": ["EE 3302", "TE 3302"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3102"]
+  ]
 }, {
   "name": "CE 3310",
   "title": "Electronic Devices",
@@ -3361,7 +3413,9 @@
     ["CE 3301", "EE 3301", "TE 3301"]
   ],
   "sameAs": ["EE 3310"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3110", "EE 3110"]
+  ]
 }, {
   "name": "CE 3311",
   "title": "Electronic Circuits",
@@ -3371,7 +3425,9 @@
     ["CE 3310", "EE 3310"]
   ],
   "sameAs": ["EE 3311"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3111", "EE 3111"]
+  ]
 }, {
   "name": "CE 3320",
   "title": "Digital Circuits",
@@ -3381,7 +3437,9 @@
     ["CE 2310", "EE 2310"]
   ],
   "sameAs": ["EE 3320"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3120"]
+  ]
 }, {
   "name": "CE 3345",
   "title": "Data Structures and Introduction to Algorithmic Analysis",
@@ -3451,7 +3509,9 @@
     ["CE 3320", "EE 3320"]
   ],
   "sameAs": ["EE 4370"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 4304", "EE 4304"]
+  ]
 }, {
   "name": "CE 4372",
   "title": "Contemporary Systems Design",
@@ -3542,7 +3602,9 @@
   "desc": "This course is designed to introduce incoming freshmen to the intellectual and cultural environment of the School of Behavioral and Brain Sciences (BBS). Students will learn about plans of study and career paths for majors in Psychology, Neuroscience, Speech Language Pathology and Audiology, Child Learning and Development, and Cognitive Science. Required for all freshman Behavioral and Brain Sciences majors; open to all non-BBS majors. Corequisite: UNIV 1010. (Same as CLDP 1100 and NSC 1100 and PSY 1100 and SPAU 1100) (1-0) Y",
   "sameAs": ["CLDP 1100", "NSC 1100", "PSY 1100", "SPAU 1100"],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "CGS 2301",
   "title": "Cognitive Science",
@@ -3801,7 +3863,9 @@
   "desc": "Introduction to the chemistry laboratory. Experiments are designed to demonstrate concepts covered in CHEM 1311; including properties and reactions of inorganic substances and elementary qualitative and quantitative analysis. This course will retain core notation for a transition period - see http://go.utdallas.edu/core-curriculum-transition. Please consult advisors for more detailed information. Corequisite: CHEM 1311. (0-3) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 1311"]
+  ]
 }, {
   "name": "CHEM 1112",
   "title": "General Chemistry Laboratory II",
@@ -3811,7 +3875,9 @@
     ["CHEM 1111", "CHEM 1115"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 1312"]
+  ]
 }, {
   "name": "CHEM 1115",
   "title": "Honors Freshman Chemistry Laboratory I",
@@ -3819,7 +3885,9 @@
   "desc": "This course and its follow-on (CHEM 1116) reinforce the concepts of Freshman Chemistry via experiments. Students are offered the opportunity to acquire basic laboratory skills and an appreciation for the presence of chemistry in daily living through a combination of laboratory and computer experiments and applied research modules. This course will retain core notation for a transition period - see http://go.utdallas.edu/core-curriculum-transition. Please consult advisors for more detailed information. Corequisite: CHEM 1315. (0-6) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 1315"]
+  ]
 }, {
   "name": "CHEM 1116",
   "title": "Honors Freshman Chemistry Laboratory II",
@@ -3829,7 +3897,9 @@
     ["CHEM 1115"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 1316"]
+  ]
 }, {
   "name": "CHEM 1311",
   "title": "General Chemistry I",
@@ -3837,7 +3907,9 @@
   "desc": "Introduction to elementary concepts of chemistry theory. The course emphasizes chemical reactions, the mole concept and its applications, and molecular structure and bonding. Students will also be registered for the exam section. Corequisite: CHEM 1111. (3-0) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 1111"]
+  ]
 }, {
   "name": "CHEM 1312",
   "title": "General Chemistry II",
@@ -3847,7 +3919,9 @@
     ["CHEM 1311", "CHEM 1315"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 1112"]
+  ]
 }, {
   "name": "CHEM 1315",
   "title": "Honors Freshman Chemistry I",
@@ -3855,7 +3929,9 @@
   "desc": "An advanced course dealing with the principles of structure and bonding and the physical laws that govern the interactions of molecules. The course is intended for students who have a solid background in chemistry at the secondary level and the desire to explore general chemistry concepts more deeply. Corequisite: CHEM 1115. (3-0) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 1115"]
+  ]
 }, {
   "name": "CHEM 1316",
   "title": "Honors Freshman Chemistry II",
@@ -3865,7 +3941,9 @@
     ["CHEM 1315"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 1116"]
+  ]
 }, {
   "name": "CHEM 2123",
   "title": "Introductory Organic Chemistry Laboratory I",
@@ -3873,7 +3951,9 @@
   "desc": "The experimental skills associated with organic functional group reactions. Corequisite: CHEM 2323. (0-4) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 2323"]
+  ]
 }, {
   "name": "CHEM 2125",
   "title": "Introductory Organic Chemistry Laboratory II",
@@ -3884,7 +3964,9 @@
     ["CHEM 2323"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 2325"]
+  ]
 }, {
   "name": "CHEM 2130",
   "title": "Introductory Organic Chemistry for Medical Science Laboratory",
@@ -3892,7 +3974,9 @@
   "desc": "The experimental skills associated with organic functional group reactions. Topics covered include fundamental skills, as well as selected experiments developed in a traditional two-semester Introductory Organic Chemistry Laboratory sequence (CHEM 2123 and CHEM 2125). Required course for students in the Partnership in Advancing Clinical Transition (UT-PACT) Program. May not be used to fulfill degree requirements for pre-health majors. Corequisite: CHEM 2330 and instructor consent required. (0-4) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 2330"]
+  ]
 }, {
   "name": "CHEM 2323",
   "title": "Introductory Organic Chemistry I",
@@ -3902,7 +3986,9 @@
     ["CHEM 1312", "CHEM 1316"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 2123"]
+  ]
 }, {
   "name": "CHEM 2325",
   "title": "Introductory Organic Chemistry II",
@@ -3912,7 +3998,9 @@
     ["CHEM 2323"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 2125"]
+  ]
 }, {
   "name": "CHEM 2330",
   "title": "Introductory Organic Chemistry for Medical Science",
@@ -3922,7 +4010,9 @@
     ["CHEM 1312", "CHEM 1316"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CHEM 2130"]
+  ]
 }, {
   "name": "CHEM 2401",
   "title": "Introductory Quantitative Methods in Chemistry",
@@ -3985,7 +4075,9 @@
     ["CHEM 2325"]
   ],
   "sameAs": ["BIOL 3361"],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3161"]
+  ]
 }, {
   "name": "CHEM 3362",
   "title": "Biochemistry II",
@@ -3995,7 +4087,9 @@
     ["BIOL 3361", "CHEM 3361"]
   ],
   "sameAs": ["BIOL 3362"],
-  "coreqs": []
+  "coreqs": [
+    ["BIOL 3162"]
+  ]
 }, {
   "name": "CHEM 3471",
   "title": "Advanced Chemical Synthesis Laboratory",
@@ -4154,7 +4248,9 @@
   "desc": "This course is designed to introduce incoming freshmen to the intellectual and cultural environment of the School of Behavioral and Brain Sciences (BBS). Students will learn about plans of study and career paths for majors in Psychology, Neuroscience, Speech Language Pathology and Audiology, Child Learning and Development, and Cognitive Science. Required for all freshman Behavioral and Brain Sciences majors; open to all non-BBS majors. Corequisite: UNIV 1010. (Same as CGS 1100 and NSC 1100 and PSY 1100 and SPAU 1100) (1-0) Y",
   "sameAs": ["CGS 1100", "NSC 1100", "PSY 1100", "SPAU 1100"],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "CLDP 2314",
   "title": "Lifespan Development",
@@ -4968,7 +5064,9 @@
   "desc": "Laboratory course to accompany CS 1334. This course assists students in experiencing elementary programming in a high-level language. May not be used to satisfy degree requirements for majors in the School of Engineering and Computer Science. Credit cannot be received for both courses, CS 1134 and CS 1136. Corequisite: CS 1334. (0-2) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CS 1334"]
+  ]
 }, {
   "name": "CS 1136",
   "title": "Computer Science Laboratory",
@@ -4976,7 +5074,9 @@
   "desc": "Laboratory course to accompany CS 1336. This course assists students in experiencing elementary programming in a high-level language. May not be used to satisfy degree requirements for majors in the School of Engineering and Computer Science. Corequisite: CS 1336. (0-2) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CS 1336"]
+  ]
 }, {
   "name": "CS 1324",
   "title": "Introduction to Programming for Biomedical Engineers",
@@ -5004,7 +5104,9 @@
   "desc": "Introduction to computers. Primitive data types, variable declarations, variable scope, and primitive operations. Control statements. Methods/functions. Arrays and strings using primitive data arrays. Output formatting. Debugging techniques. Designed for students with no prior computer programming experience. May not be used to satisfy degree requirements for majors in the School of Engineering and Computer Science. Credit cannot be received for both courses, CS 1334 and CS 1336. Note that a grade of C or better is required in order to register for CS 1335. Corequisite: CS 1134. (3-0) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CS 1134"]
+  ]
 }, {
   "name": "CS 1335",
   "title": "Computer Science I for Non-majors",
@@ -5022,7 +5124,9 @@
   "desc": "Introduces the fundamental concepts of structured programming. Topics include software development methodology, data types, control structures, functions, arrays, and the mechanics of running, testing, and debugging. Programming language of choice is C. The class is open to students in the School of Engineering and Computer Science only. May not be used to satisfy degree requirements for majors in the School of Engineering and Computer Science. Note that a grade of C- or better in this class is required in order to register for (CS 1324 or CS 1325); a grade of C or better in this class is required to register for (CE 1337 or CS 1337 or TE 1337). Corequisite: CS 1136. (3-0) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CS 1136"]
+  ]
 }, {
   "name": "CS 1337",
   "title": "Computer Science I",
@@ -5222,7 +5326,9 @@
   "desc": "Laboratory to accompany CS 4341. The purpose of this laboratory is to give students an intuitive understanding of digital circuits and systems. Laboratory exercises include construction of simple digital logic circuits using prototyping kits and board-level assembly of a personal computer. Corequisite: CS 4341 or TE 4341. (Same as TE 4141) (0-2) S",
   "sameAs": ["TE 4141"],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CS 4341", "TE 4341"]
+  ]
 }, {
   "name": "CS 4314",
   "title": "Intelligent Systems Analysis",
@@ -5301,7 +5407,9 @@
     ["PHYS 2326"]
   ],
   "sameAs": ["TE 4341"],
-  "coreqs": []
+  "coreqs": [
+    ["CS 4141", "TE 4141"]
+  ]
 }, {
   "name": "CS 4347",
   "title": "Database Systems",
@@ -5920,7 +6028,9 @@
   "desc": "This course is designed as a recitation or practice session for ECON 2301 Principles of Macroeconomics core curriculum course. Credit/No Credit only. Corequisite: ECON 2301. (1-0) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["ECON 2301"]
+  ]
 }, {
   "name": "ECON 2301",
   "title": "Principles of Macroeconomics",
@@ -6643,7 +6753,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["CE 3101", "TE 3101"],
-  "coreqs": []
+  "coreqs": [
+    ["EE 3301"]
+  ]
 }, {
   "name": "EE 3102",
   "title": "Signals and Systems Laboratory",
@@ -6653,7 +6765,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["CE 3102", "TE 3102"],
-  "coreqs": []
+  "coreqs": [
+    ["EE 3302"]
+  ]
 }, {
   "name": "EE 3110",
   "title": "Electronic Devices Laboratory",
@@ -6663,7 +6777,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["CE 3110"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3310", "EE 3310"]
+  ]
 }, {
   "name": "EE 3111",
   "title": "Electronic Circuits Laboratory",
@@ -6673,7 +6789,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["CE 3111"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3311", "EE 3311"]
+  ]
 }, {
   "name": "EE 3120",
   "title": "Digital Circuits Laboratory",
@@ -6683,7 +6801,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["CE 3120"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3320", "EE 3320"]
+  ]
 }, {
   "name": "EE 3150",
   "title": "Communications Systems Laboratory",
@@ -6694,7 +6814,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["TE 3150"],
-  "coreqs": []
+  "coreqs": [
+    ["EE 3350"]
+  ]
 }, {
   "name": "EE 3301",
   "title": "Electrical Network Analysis",
@@ -6705,7 +6827,9 @@
     ["PHYS 2326"]
   ],
   "sameAs": ["CE 3301", "TE 3301"],
-  "coreqs": []
+  "coreqs": [
+    ["EE 3101"]
+  ]
 }, {
   "name": "EE 3302",
   "title": "Signals and Systems",
@@ -6715,7 +6839,9 @@
     ["ENGR 3300"]
   ],
   "sameAs": ["CE 3302", "TE 3302"],
-  "coreqs": []
+  "coreqs": [
+    ["EE 3102"]
+  ]
 }, {
   "name": "EE 3310",
   "title": "Electronic Devices",
@@ -6725,7 +6851,9 @@
     ["CE 3301", "EE 3301", "TE 3301"]
   ],
   "sameAs": ["CE 3310"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3110", "EE 3110"]
+  ]
 }, {
   "name": "EE 3311",
   "title": "Electronic Circuits",
@@ -6735,7 +6863,9 @@
     ["CE 3310", "EE 3310"]
   ],
   "sameAs": ["CE 3311"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 3111", "EE 3111"]
+  ]
 }, {
   "name": "EE 3320",
   "title": "Digital Circuits",
@@ -6745,7 +6875,9 @@
     ["CE 2310", "EE 2310"]
   ],
   "sameAs": ["CE 3320"],
-  "coreqs": []
+  "coreqs": [
+    ["EE 3120"]
+  ]
 }, {
   "name": "EE 3350",
   "title": "Communications Systems",
@@ -6758,7 +6890,9 @@
     ["ENGR 3341"]
   ],
   "sameAs": ["TE 3350"],
-  "coreqs": []
+  "coreqs": [
+    ["EE 3150", "TE 3150"]
+  ]
 }, {
   "name": "EE 4168",
   "title": "RF/Microwave Laboratory",
@@ -6930,7 +7064,9 @@
     ["CE 3320", "EE 3320"]
   ],
   "sameAs": ["CE 4370"],
-  "coreqs": []
+  "coreqs": [
+    ["CE 4304", "EE 4304"]
+  ]
 }, {
   "name": "EE 4388",
   "title": "Senior Design Project I",
@@ -7120,7 +7256,9 @@
     ["MATH 2414", "MATH 2419"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["MATH 2420"]
+  ]
 }, {
   "name": "ENGR 4334",
   "title": "Numerical Methods in Engineering",
@@ -7263,7 +7401,9 @@
   "desc": "This course is a graduation requirement for all first time in college EPPS freshman. This course is designed to introduce incoming freshmen to the intellectual and cultural environment of the School of Economic, Political and Policy Sciences. Students will learn about EPPS majors, research opportunities, careers, and internships. The course covers introductory information applied to criminology, political science, public affairs/public administration, nonprofit management, economics, global economy, and sociology. This course is also open to all non-EPPS majors. Corequisite: UNIV 1010. (1-0) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "EPPS 2301",
   "title": "Research Design in the Social and Policy Sciences",
@@ -11062,7 +11202,9 @@
   "desc": "Laboratory course. The laboratory introduces mechanical measurement techniques and processes. Introduction to basic instrumentation used in mechanical engineering, including calibration, use, precision, and accuracy. Consideration of errors, precision, and accuracy in experimental measurements. Corequisite: MECH 2320. (0-1) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["MECH 2320"]
+  ]
 }, {
   "name": "MECH 2310",
   "title": "Statics",
@@ -11087,7 +11229,9 @@
     ["MECH 2310"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["MECH 2120"]
+  ]
 }, {
   "name": "MECH 2330",
   "title": "Dynamics",
@@ -11116,7 +11260,9 @@
   "desc": "Project-based course associated with MECH 3305. Design projects involving CAD tools constitute a major portion of the course. Corequisite: MECH 3305. (0-1) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["MECH 3305"]
+  ]
 }, {
   "name": "MECH 3115",
   "title": "Fluid Mechanics Laboratory",
@@ -12335,7 +12481,9 @@
   "desc": "This course is designed to introduce incoming freshmen to the intellectual and cultural environment of the School of Natural Sciences and Mathematics (NS&M). Students will learn about plans of study and career paths for majors in Biology, Chemistry, Physics, Mathematics, Geosciences, and Science and Mathematics Education. Basic study, problem solving and other skills needed to succeed as an NS&M major will be covered. An overview of the connections within the disciplines of Natural Sciences and Mathematics will be presented, as well as their relationship to engineering, medicine and health, and other fields. Required for all first time in college freshmen in NS&M. Corequisite: UNIV 1010. (1-0) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "NATS 1141",
   "title": "UTeach STEP 1",
@@ -12419,7 +12567,9 @@
     ["NATS 4341"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["NATS 4694", "NATS 4696"]
+  ]
 }, {
   "name": "NATS 4310",
   "title": "Advanced Writing in the Natural Sciences and Mathematics",
@@ -12462,7 +12612,9 @@
     ["NATS 4390"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["NATS 4141"]
+  ]
 }, {
   "name": "NATS 4696",
   "title": "UTeach Apprentice Teaching, 4-8 Science and Mathematics",
@@ -12473,7 +12625,9 @@
     ["NATS 4390"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["NATS 4141"]
+  ]
 }, {
   "name": "NATS 4V41",
   "title": "Independent Study in Science and Math Education",
@@ -12497,7 +12651,9 @@
   "desc": "This course is designed to introduce incoming freshmen to the intellectual and cultural environment of the School of Behavioral and Brain Sciences (BBS). Students will learn about plans of study and career paths for majors in Psychology, Neuroscience, Speech Language Pathology and Audiology, Child Learning and Development, and Cognitive Science. Required for all freshman Behavioral and Brain Sciences majors; open to all non-BBS majors. Corequisite: UNIV 1010. (Same as CLDP 1100 and CGS 1100 and PSY 1100 and SPAU 1100) (1-0) Y",
   "sameAs": ["CLDP 1100", "CGS 1100", "PSY 1100", "SPAU 1100"],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "NSC 3344",
   "title": "Anatomy and Physiology of Speech and Hearing",
@@ -13728,7 +13884,9 @@
     ["MATH 1314"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["PHYS 2125"]
+  ]
 }, {
   "name": "PHYS 1302",
   "title": "College Physics II",
@@ -13738,7 +13896,9 @@
     ["PHYS 1301"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["PHYS 2126"]
+  ]
 }, {
   "name": "PHYS 2121",
   "title": "Honors Physics Lab I",
@@ -13746,7 +13906,9 @@
   "desc": "Laboratory course to accompany Honors Physics I or the calculus-based Mechanics class. Experiments based on topics covered in the lecture course are used as a vehicle to present measurement techniques, calibration concepts, use of computers for graphing and analysis, and calculation of experimental uncertainty. Corequisite: PHYS 2421. (0-3) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["PHYS 2421"]
+  ]
 }, {
   "name": "PHYS 2125",
   "title": "Physics Laboratory I",
@@ -13754,7 +13916,9 @@
   "desc": "Laboratory course to accompany any Physics I or Mechanics course. Experiments investigate basic measurements and statistics including error, mean, standard deviation and error propagation; one dimensional and two dimensional motion; Newton's laws; conservation laws of energy and momentum; rotational motion; and oscillations. Corequisite: PHYS 1301 or PHYS 2325 or PHYS 2421. (0-3) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["PHYS 1301", "PHYS 2325", "PHYS 2421"]
+  ]
 }, {
   "name": "PHYS 2126",
   "title": "Physics Laboratory II",
@@ -13762,7 +13926,9 @@
   "desc": "Laboratory course to accompany any Physics II or Electricity and Magnetism course. Experiments investigate electrostatics, electricity in simple circuits, RC circuits and magnetism. This course will retain core notation for a transition period - see http://go.utdallas.edu/core-curriculum-transition. Please consult advisors for more detailed information. Corequisite: PHYS 1302 or PHYS 2326 or PHYS 2422. (0-3) S",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["PHYS 1302", "PHYS 2326", "PHYS 2422"]
+  ]
 }, {
   "name": "PHYS 2303",
   "title": "Contemporary Physics",
@@ -13780,7 +13946,10 @@
     ["MATH 2413", "MATH 2417"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["MATH 2414", "MATH 2419"],
+    ["PHYS 2121", "PHYS 2125"]
+  ]
 }, {
   "name": "PHYS 2326",
   "title": "Electromagnetism and Waves",
@@ -13791,7 +13960,9 @@
     ["MATH 2414", "MATH 2419"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["PHYS 2126"]
+  ]
 }, {
   "name": "PHYS 2421",
   "title": "Honors Physics I - Mechanics and Heat",
@@ -13801,7 +13972,10 @@
     ["MATH 2413", "MATH 2417"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["MATH 2414", "MATH 2419"],
+    ["PHYS 2121", "PHYS 2125"]
+  ]
 }, {
   "name": "PHYS 2422",
   "title": "Honors Physics II - Electromagnetism and Waves",
@@ -13812,7 +13986,10 @@
     ["MATH 2414", "MATH 2419"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["MATH 2415"],
+    ["PHYS 2126"]
+  ]
 }, {
   "name": "PHYS 3312",
   "title": "Classical Mechanics",
@@ -13876,7 +14053,9 @@
     ["PHYS 2326", "PHYS 2422"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["MATH 2420"]
+  ]
 }, {
   "name": "PHYS 3416",
   "title": "Electricity and Magnetism",
@@ -13917,7 +14096,9 @@
     ["PHYS 2326", "PHYS 2422"]
   ],
   "sameAs": [],
-  "coreqs": []
+  "coreqs": [
+    ["PHYS 3311", "PHYS 3411"]
+  ]
 }, {
   "name": "PHYS 4328",
   "title": "Optics",
@@ -14559,7 +14740,9 @@
   "desc": "This course is designed to introduce incoming freshmen to the intellectual and cultural environment of the School of Behavioral and Brain Sciences (BBS). Students will learn about plans of study and career paths for majors in Psychology, Neuroscience, Speech Language Pathology and Audiology, Child Learning and Development, and Cognitive Science. Required for all freshman Behavioral and Brain Sciences majors; open to all non-BBS majors. Corequisite: UNIV 1010. (Same as CLDP 1100 and CGS 1100 and NSC 1100 and SPAU 1100) (1-0) Y",
   "sameAs": ["CLDP 1100", "CGS 1100", "NSC 1100", "SPAU 1100"],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "PSY 2301",
   "title": "Introduction to Psychology",
@@ -15859,7 +16042,9 @@
   "desc": "This course is designed to introduce incoming freshmen to the intellectual and cultural environment of the School of Behavioral and Brain Sciences (BBS). Students will learn about plans of study and career paths for majors in Psychology, Neuroscience, Speech Language Pathology and Audiology, Child Learning and Development, and Cognitive Science. Required for all freshman Behavioral and Brain Sciences majors; open to all non-BBS majors. Corequisite: UNIV 1010. (Same as CLDP 1100 and CGS 1100 and NSC 1100 and PSY 1100) (1-0) Y",
   "sameAs": ["CLDP 1100", "CGS 1100", "NSC 1100", "PSY 1100"],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "SPAU 3301",
   "title": "Communication Disorders",
@@ -16273,7 +16458,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["CE 3101", "EE 3101"],
-  "coreqs": []
+  "coreqs": [
+    ["TE 3301"]
+  ]
 }, {
   "name": "TE 3102",
   "title": "Signals and Systems Laboratory",
@@ -16283,7 +16470,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["CE 3102", "EE 3102"],
-  "coreqs": []
+  "coreqs": [
+    ["TE 3302"]
+  ]
 }, {
   "name": "TE 3150",
   "title": "Communications Systems Laboratory",
@@ -16294,7 +16483,9 @@
     ["RHET 1302"]
   ],
   "sameAs": ["EE 3150"],
-  "coreqs": []
+  "coreqs": [
+    ["TE 3350"]
+  ]
 }, {
   "name": "TE 3301",
   "title": "Electrical Network Analysis",
@@ -16305,7 +16496,9 @@
     ["PHYS 2326"]
   ],
   "sameAs": ["CE 3301", "EE 3301"],
-  "coreqs": []
+  "coreqs": [
+    ["TE 3101"]
+  ]
 }, {
   "name": "TE 3302",
   "title": "Signals and Systems",
@@ -16315,7 +16508,9 @@
     ["ENGR 3300"]
   ],
   "sameAs": ["CE 3302", "EE 3302"],
-  "coreqs": []
+  "coreqs": [
+    ["TE 3102"]
+  ]
 }, {
   "name": "TE 3340",
   "title": "Computer Architecture",
@@ -16352,7 +16547,9 @@
     ["ENGR 3341"]
   ],
   "sameAs": ["EE 3350"],
-  "coreqs": []
+  "coreqs": [
+    ["EE 3150", "TE 3150"]
+  ]
 }, {
   "name": "TE 4141",
   "title": "Digital Systems Laboratory",
@@ -16360,7 +16557,9 @@
   "desc": "Laboratory to accompany TE 4341. The purpose of this laboratory is to give students an intuitive understanding of digital circuits and systems. Laboratory exercises include construction of simple digital logic circuits using prototyping kits and board-level assembly of a personal computer. Corequisite: CS 4341 or TE 4341. (Same as CS 4141) (0-2) S",
   "sameAs": ["CS 4141"],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["CS 4341", "TE 4341"]
+  ]
 }, {
   "name": "TE 4341",
   "title": "Digital Logic and Computer Design",
@@ -16371,7 +16570,9 @@
     ["PHYS 2326"]
   ],
   "sameAs": ["CS 4341"],
-  "coreqs": []
+  "coreqs": [
+    ["CS 4141", "TE 4141"]
+  ]
 }, {
   "name": "TE 4348",
   "title": "Operating Systems Concepts",
@@ -16487,7 +16688,9 @@
   "desc": "This course is a graduation requirement for all first time in college freshman. This course is designed to introduce incoming freshmen to the intellectual and cultural environment of the university and the impacts it will have on their lives as students. The course incorporates presentations by leading UT Dallas faculty members on research developments of major current interest, small section meetings to discuss these presentations and matters of general concern to UT Dallas freshmen, and a substantial component of on-line learning focused on developing the strategies and tactics that will lead to successful careers at UT Dallas and beyond. This class or ECS 1200 is required of all first time in college freshman students. Credit/No Credit only. Corequisite: ARHM 1100 or BA 1100 or BIS 1100 or CGS 1100 or CLDP 1100 or EPPS 1110 or NATS 1101 or NSC 1100 or PSY 1100 or SPAU 1100 or UNIV 1100. (2-0) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["ARHM 1100", "BA 1100", "BIS 1100", "CGS 1100", "CLDP 1100", "EPPS 1110", "NATS 1101", "NSC 1100", "PSY 1100", "SPAU 1100", "UNIV 1100"]
+  ]
 }, {
   "name": "UNIV 1100",
   "title": "Freshman Seminar - Undeclared",
@@ -16495,7 +16698,9 @@
   "desc": "This course is designed to introduce students to the university and career/major exploration. Corequisite: UNIV 1010. (1-0) Y",
   "sameAs": [],
   "prereqs": [],
-  "coreqs": []
+  "coreqs": [
+    ["UNIV 1010"]
+  ]
 }, {
   "name": "UNIV 2010",
   "title": "Seminar for Pre-Law Professionals",

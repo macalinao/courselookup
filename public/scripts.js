@@ -66,7 +66,7 @@ angular.module('app', ['ui.router'])
     $http.post('/plan', {
       taken: $scope.taken,
       pending: $scope.pending,
-      load: 16
+      load: parseInt($scope.load) || 16
     }).then(function(res) {
       $scope.suggested = res.data;
     });

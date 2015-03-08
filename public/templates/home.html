@@ -34,7 +34,10 @@
   <div class="col-md-4">
     <h2>Suggested Courses</h2>
 
-    <button class="btn btn-primary" ng-click="generate()">Generate Plan</button>
+    <form class="form-inline">
+      <input type="text" class="form-control" ng-model="load" placeholder="Maximum Load (e.g. 16)" />
+      <button class="btn btn-primary" ng-click="generate()">Generate Plan</button>
+    </form>
 
     <div ng-repeat="s in suggested">
       <h2>Semester {{ $index + 1 }} ({{ s.hours }} hours)</h2>
