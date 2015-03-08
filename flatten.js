@@ -19,7 +19,9 @@ courses = courses.map(function(course) {
 
   function fixNames(list) {
     if (!list) return [];
-    return list.map(listFixNames);
+    return list.map(listFixNames).filter(function(arr) {
+      return arr.length > 0;
+    });
   }
 
   course.prereqs = fixNames(course.prereqs);

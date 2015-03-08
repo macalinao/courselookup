@@ -97,8 +97,7 @@
   "hours": 1,
   "desc": "For students conducting independent research for honors theses or projects. Prerequisite: ACCT 4299 and instructor consent required. (1-0) S",
   "prereqs": [
-    ["ACCT 4299"],
-    []
+    ["ACCT 4299"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -107,10 +106,7 @@
   "title": "Thesis Research Methods and Writing Seminar",
   "hours": 2,
   "desc": "This course will prepare Honors Students to write their Honors Thesis. Various research methods ranging from survey to archival will be discussed. Students will choose a method, pick a research question, and produce an outline and introduction to their thesis topic. Prerequisites: Junior standing and instructor consent required. (2-0) S",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -174,8 +170,7 @@
   "hours": 3,
   "desc": "This course is designed to provide students with an opportunity to expand and apply their tax compliance skills in a community service environment through the execution of the Volunteer Income Tax Assistance (VITA) program through a combination of in-class seminars and out-of-classroom application. Credit/No Credit only. Prerequisites: ACCT 3350 and instructor consent required. (3-0) R",
   "prereqs": [
-    ["ACCT 3350"],
-    []
+    ["ACCT 3350"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -397,10 +392,7 @@
   "title": "Independent Study in Art History",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisites: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -568,11 +560,7 @@
   "title": "Senior Honors in American Studies",
   "hours": 3,
   "desc": "Required for graduation magna cum laude or summa cum laude. Prerequisite: Completion of at least 39 and no more than 45 hours of work towards a degree in American Studies and instructor consent required. (3-0) R",
-  "prereqs": [
-    [],
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -624,10 +612,7 @@
   "title": "Independent Study in Art and Performance",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisites: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -1048,10 +1033,7 @@
   "title": "Independent Study in Visual Arts",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -1368,8 +1350,7 @@
   "hours": 3,
   "desc": "This course is a continuation of the ATEC 3328 Rigging I course and will continue with concepts, tools and techniques used in 3D animation for setting up clean and efficient 3D rigs that are easily and intuitively animated. Topics will include squash and stretch capabilities in rigs, basic MEL scripting, simple dynamics, facial rigs, and basic animation principles for complex rigs. Registration for this course will be based on the faculty's review of the student's portfolio. Prerequisite: ATEC 3328 and instructor consent required. (0-3) Y",
   "prereqs": [
-    ["ATEC 3328"],
-    []
+    ["ATEC 3328"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -1408,9 +1389,7 @@
   "title": "Project Management for Arts and Technology",
   "hours": 3,
   "desc": "This course provides an overview of managing Arts and Technology related projects. Topics covered include project definition, timelines, financial, staffing and marketing plans, as well as presentation strategies. Teamwork and communications strategies are also major topics in the course. May be repeated for credit as topics vary (6 semester credit hours maximum). Prerequisite: Upper-division standing. (0-3) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -1418,9 +1397,7 @@
   "title": "Digital Marketing Design",
   "hours": 3,
   "desc": "This course provides an overview of ways web, social media, mobile technologies, games and other media formats may be used to create and design communications programs. The course provides an overview of these media and how they may be used to create a marketing-based communications plan. May be repeated (6 semester credit hours maximum). Prerequisite: Upper-division standing. (3-0) R",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -1459,8 +1436,7 @@
   "hours": 3,
   "desc": "This advanced level course builds on the topics and workflows presented in ATEC 3317 Modeling and Texturing I. Advanced modeling and texturing concepts and fundamentals are discussed and examined. The principles and techniques covered are geared towards feature film and television work, but also apply to video game model creation. Areas covered include mesh, visualization, proper mesh flow on organic surfaces, digital sculpting and 3D painting applications. Registration for this course will be based on the faculty's review of the student's portfolio. Prerequisites: ATEC 3317 and instructor consent required. (0-3) Y",
   "prereqs": [
-    ["ATEC 3317"],
-    []
+    ["ATEC 3317"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -1470,8 +1446,7 @@
   "hours": 3,
   "desc": "This advanced level course builds on the topics and workflows presented in ATEC 3327 Lighting and Composition I. Advanced lighting and compositing fundamentals are discussed and examined. The principles and techniques covered are geared towards feature film and television work. Areas covered include Global Illumination, image based lighting (IBL), and node based compositing. Registration for this course will be based on the faculty's review of the student's portfolio. Prerequisites: ATEC 3317 and instructor consent required. (0-3) Y",
   "prereqs": [
-    ["ATEC 3317"],
-    []
+    ["ATEC 3317"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -1489,8 +1464,7 @@
   "hours": 3,
   "desc": "This advanced course mimics an animation studio environment. All major areas of production are represented and work together to create a fully realized 3D animated short(s). This course utilizes various aspects of all areas of computer animation including story development, layout, modeling, texturing, rigging, animation and lighting, rendering/compositing, sound design, and project planning and management. This is a two semester sequence course. Selected students must be able to register for both sessions (Fall/Spring). Registration for this course will be based on the faculty's review of the student's portfolio. May be repeated for credit (6 semester credit hours maximum). Prerequisites: (ATEC 3317 or ATEC 3327 or ATEC 3328 or ATEC 3336) and instructor consent required. (0-3) Y",
   "prereqs": [
-    ["ATEC 3317", "ATEC 3327", "ATEC 3328", "ATEC 3336"],
-    []
+    ["ATEC 3317", "ATEC 3327", "ATEC 3328", "ATEC 3336"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -1500,8 +1474,7 @@
   "hours": 3,
   "desc": "This course is a continuation of the ATEC 4351 Animation Studio I fall course. The course will mimic an actual animation studio environment where all major areas of production are represented and work together to create a fully realized 3D animated short(s). This course utilizes various aspects of all areas of computer animation including story development, layout, modeling, texturing, rigging, animation and lighting, rendering/compositing, sound design, and project planning and management. This is a two semester sequence course. Selected students must be able to register for both sessions (Fall/Spring). May be repeated for credit (6 semester credit hours maximum). Prerequisites: ATEC 4351 and instructor consent required. (0-3) Y",
   "prereqs": [
-    ["ATEC 4351"],
-    []
+    ["ATEC 4351"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -1549,8 +1522,7 @@
   "hours": 3,
   "desc": "Continuing study in interactive game design, focusing on methods and techniques for rapid prototyping, game iteration, tuning, and balancing. The course focuses on identifying and utilizing both successes and failures to improve on successive iterations of a game mechanic, concept, or experience. Registration for this course will be based on the faculty's review of the student's portfolio. Prerequisites: ATEC 3351 and instructor consent required. (0-3) Y",
   "prereqs": [
-    ["ATEC 3351"],
-    []
+    ["ATEC 3351"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -1567,9 +1539,7 @@
   "title": "Topics in Arts and Technology",
   "hours": 3,
   "desc": "Study of fundamental principles and basic techniques of arts and technology. Sections may be devoted exclusively to a single aspect of the arts and technology or to a multiplicity of subjects related to the field. May be repeated for credit as topics vary (9 semester credit hours maximum). Prerequisite: Upper-division standing or department consent required. (0-3) R",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -1617,11 +1587,7 @@
   "title": "Independent Study in Arts and Technology",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisites: Upper-division standing and completion of all lower-division requirements in ATEC and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -2026,12 +1992,10 @@
   "hours": 3,
   "desc": "Nanomedicine is an emerging area where biology and nanotechnology converge, combining multidisciplinary fields such as biology, medicine, chemistry, physics and engineering. The rapid development of nanomedicine also has ethical and environmental implications. This course provides an introduction and overview of nanomedicine for undergraduate Curriculum V honors students. The course consists of a 3-hour lecture series one day a week, plus a workshop. The lectures begin with the basics of protein and lipid structure, providing a review for understanding how bio-macromolecules combine to form the structural and functional units of the intact cell that are important for nanomedicine applications. Guest lecturers from academia and industry will also present talks in their specialty areas, including a lecture on emerging ethical issues related to the practice of nanomedicine. The last part of the course consists of student presentations on topics of interest. Prerequisite or Corequisite: BIOL 3361 and instructor consent required. (3-0) Y",
   "prereqs": [
-    ["BIOL 3361"],
-    []
+    ["BIOL 3361"]
   ],
   "coreqs": [
-    ["BIOL 3361"],
-    []
+    ["BIOL 3361"]
   ],
   "sameAs": []
 }, {
@@ -2235,9 +2199,7 @@
   "title": "Clinical Medicine II",
   "hours": 1,
   "desc": "Clinical Medicine II addresses clinical competencies in the medical profession, building on skills already addressed in Clinical Medicine I and other parts of the UT PACT curriculum. Topics to be addressed include the application of basic science to clinical practice, interpersonal skills in medicine, cultural competency, and professionalism and medical ethics in clinical settings. Students participate in small group sessions and clinical preceptorships and rotations at UT Southwestern Medical Center. Enrollment is limited to students who have completed their second year in the UT PACT Program. Credit/No Credit only. May be repeated for credit. UT PACT advisor consent required. Prerequisite: BIOL 3V81. ([1-6]-[1-9]) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -2393,9 +2355,7 @@
   "title": "Field Ecology",
   "hours": 3,
   "desc": "General ecological principles as related to productivity, population diversity, communities and ecosystem functions. Field data collection techniques included. Prerequisite: Upper-division standing. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -2499,8 +2459,7 @@
   "desc": "Interactions of antigens and antibodies. Fine structure of antibodies. Tissues and cells of the immune system. Response of B and T lymphocytes to antigens. Cellular interactions in humoral and cell-mediated immunity. Genetic basis of antibody diversity. Immunity and infectious diseases. Prerequisites: CHEM 2323 and CHEM 2325 (Organic Chemistry I and II). Suggested additional preparation: BIOL 3302. (3-0) T",
   "prereqs": [
     ["CHEM 2323"],
-    ["CHEM 2325"],
-    []
+    ["CHEM 2325"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -2594,8 +2553,7 @@
   "desc": "A practical approach to quantitative and statistical analysis of biological sequence and structural information. Classroom lectures are accompanied by practical demonstrations and computer lab exercises. Topics include genomic information content, data searches and sequence alignment, mutations and distance-based phylogenetic analysis, genomics and gene recognition, polymorphisms and forensic applications, nucleic-acid and protein array analysis, and structure prediction of biological macromolecules. Recommended prerequisite: one semester of introductory statistics. Prerequisites: BIOL 3301 and (BIOL 3361 or CHEM 3361) and two semesters of calculus. (3-0) T",
   "prereqs": [
     ["BIOL 3301"],
-    ["BIOL 3361", "CHEM 3361"],
-    []
+    ["BIOL 3361", "CHEM 3361"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -2837,9 +2795,7 @@
   "title": "Strategies for Diversity in Education",
   "hours": 3,
   "desc": "This course prepares teacher certification candidates to meet the challenges of student diversity in the general education classroom. Students will examine the roles of various professionals, overview the identification and needs of special education and gifted and talented students through the lenses of gender, ethnicity, culture and language. Students will learn about IEPs, ARDs, legal requirements, collaboration, instructional differentiation, cooperative learning, inclusion, and assessment techniques applicable for diverse learners in the general education classroom. Prerequisite: Upper-division standing. (3-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -3481,9 +3437,7 @@
   "desc": "An introduction to fundamental concepts in operating systems: their design, implementation, and usage. Topics include process management, main memory management, virtual memory, I/O and device drivers, file systems, secondary storage management, and an introduction to critical sections and deadlocks. Prerequisites: (CS 3340 or SE 3340 or TE 3340 or equivalent), and (CE 3345 or CS 3345 or SE 3345 or TE 3345), and a working knowledge of C and UNIX. (Same as CS 4348 and SE 4348 and TE 4348) (3-0) S",
   "prereqs": [
     ["CS 3340", "SE 3340", "TE 3340"],
-    ["CE 3345", "CS 3345", "SE 3345", "TE 3345"],
-    [],
-    []
+    ["CE 3345", "CS 3345", "SE 3345", "TE 3345"]
   ],
   "sameAs": ["CS 4348", "SE 4348", "TE 4348"],
   "coreqs": []
@@ -3965,8 +3919,7 @@
   "hours": 3,
   "desc": "Covers fundamental concepts and selected material developed in a traditional two-semester Introductory Organic Chemistry lecture sequence (CHEM 2323 and CHEM 2325). Required course for students in the Partnership in Advancing Clinical Transition (UT-PACT) Program. May not be used to fulfill degree requirements for pre-health majors. Prerequisites: (CHEM 1312 or CHEM 1316) and instructor consent required. Corequisite: CHEM 2130. (3-0) Y",
   "prereqs": [
-    ["CHEM 1312", "CHEM 1316"],
-    []
+    ["CHEM 1312", "CHEM 1316"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -4108,9 +4061,7 @@
   "title": "Research and Advanced Writing in Chemistry",
   "hours": 3,
   "desc": "For students conducting independent research and scientific writing. Students will pursue an independent project under the supervision of a member of the Chemistry faculty. Subject and scope to be determined on an individual basis. This course satisfies the university advanced writing requirement. Instructor consent required and submission of research plans with approval from supervising faculty and the Undergraduate Committee in Chemistry. This course will retain core notation for a transition period - see http://go.utdallas.edu/core-curriculum-transition. Please consult advisors for more detailed information. Prerequisite: at least 3 semester credit hours of undergraduate research (e.g. CHEM 4V91). (3-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -4118,9 +4069,7 @@
   "title": "Research and Advanced Writing in Chemistry for Honors Students",
   "hours": 3,
   "desc": "For students conducting independent research for honors theses or projects. Satisfies the university advanced writing requirement. This course will retain core notation for a transition period - see http://go.utdallas.edu/core-curriculum-transition. Please consult advisors for more detailed information. Prerequisites: Senior level standing with at least 3 semester credit hours of undergraduate research (e.g. CHEM 4V91), and consent of supervising faculty and (filing a research plan approved by supervising faculty and the Undergraduate Committee in Chemistry prior to the 12th class day). (3-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -4577,8 +4526,7 @@
   "hours": 3,
   "desc": "The course will emphasize the critical evaluation of persuasive messages and the design of persuasive appeals. By merging theory and practice, students will focus on persuasive strategies as a means for influencing attitudes, beliefs, and actions in a variety of contexts, including business, politics, interpersonal interactions, and emerging media. Prerequisites: RHET 1302 and upper-division standing. (3-0) S",
   "prereqs": [
-    ["RHET 1302"],
-    []
+    ["RHET 1302"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -4588,8 +4536,7 @@
   "hours": 3,
   "desc": "Group processes and dynamics applied to public discussion and small group communication. Study of the development of group leadership abilities, problem-solving techniques and conflict management, discussion methods, and the importance of small groups in the modern professional environment. Prerequisites: RHET 1302 and upper-division standing. (3-0) R",
   "prereqs": [
-    ["RHET 1302"],
-    []
+    ["RHET 1302"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -4599,8 +4546,7 @@
   "hours": 3,
   "desc": "Examines how culture is studied and how culture affects self-concept, reasoning and patterns of thought, verbal and nonverbal communication, and communication style. Additional topics include intercultural conflict, ethnocentrism and prejudice, intercultural accommodation and adjustment, and intercultural business protocol. Prerequisites: RHET 1302 and upper-division standing. (3-0) R",
   "prereqs": [
-    ["RHET 1302"],
-    []
+    ["RHET 1302"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -4610,8 +4556,7 @@
   "hours": 3,
   "desc": "This interdisciplinary course examines the relationship between American culture and communication in terms of concepts and theories related to anthropology, communication, linguistics, psychology, and sociology. Topics covered include the characterization of culture; descriptions of American culture; the relationship between American culture and communication; and research about co-cultures, subcultures, and regional dialects. Prerequisites: RHET 1302 and upper-division standing. (3-0) R",
   "prereqs": [
-    ["RHET 1302"],
-    []
+    ["RHET 1302"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -4621,8 +4566,7 @@
   "hours": 3,
   "desc": "This course examines the conceptual perspectives and approaches for understanding and evaluating communication ethics in a variety of contexts. Contexts may include interpersonal relationships, small groups, organizations, intercultural encounters, public communication and technology-based communication. The course is designed to reveal values and ethical issues inherent in communication and provide resources for making and defending choices on ethical grounds. Prerequisites: RHET 1302 and upper-division standing. (3-0) R",
   "prereqs": [
-    ["RHET 1302"],
-    []
+    ["RHET 1302"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -4631,10 +4575,7 @@
   "title": "Advanced Independent Study in Communication",
   "hours": 1,
   "desc": "Advanced independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisites: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -4854,9 +4795,7 @@
   "title": "Senior Research Seminar",
   "hours": 3,
   "desc": "Major concepts and principles of Criminology will be applied to the analysis of crime. Capstone required course for senior Criminology majors. Completion of all, or concurrent enrollment in, major requirements. Prerequisite: Upper-division standing. (3-0) T",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -5019,10 +4958,7 @@
   "title": "Independent Study in Creative Writing",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -5383,9 +5319,7 @@
   "desc": "An introduction to fundamental concepts in operating systems: their design, implementation, and usage. Topics include process management, main memory management, virtual memory, I/O and device drivers, file systems, secondary storage management, and an introduction to critical sections and deadlocks. Prerequisites: (CS 3340 or SE 3340 or TE 3340 or equivalent), and (CE 3345 or CS 3345 or SE 3345 or TE 3345), and a working knowledge of C and UNIX. (Same as CE 4348 and SE 4348 and TE 4348) (3-0) S",
   "prereqs": [
     ["CS 3340", "SE 3340", "TE 3340"],
-    ["CE 3345", "CS 3345", "SE 3345", "TE 3345"],
-    [],
-    []
+    ["CE 3345", "CS 3345", "SE 3345", "TE 3345"]
   ],
   "sameAs": ["CE 4348", "SE 4348", "TE 4348"],
   "coreqs": []
@@ -5600,8 +5534,7 @@
   "desc": "This course is intended to complement theory and to provide an in-depth, hands-on experience in all aspects of a software development project. Students will work in teams on projects of interest to industry and will be involved in specifying the problem and its solution, designing and analyzing the solution, developing the software architecture, along with implementation and testing plans. The deliverables will include reports that document these steps as well as a final project report, including the challenges they faced, and a user manual of the developed system. Students will explore security issues of their project and its potential impact on society. Teams will also make presentations as well as demonstrate their software. Additionally, this course will cover topics related to computer science profession including ethics and professional responsibility, entrepreneurship, leadership, and project management. Prerequisites: (CE 3345 or CS 3345 or SE 3345 or TE 3345), and (CE 3354 or CS 3354 or SE 3354 or equivalent), and at least three CS 43XX classes. (4-0) S",
   "prereqs": [
     ["CE 3345", "CS 3345", "SE 3345", "TE 3345"],
-    ["CE 3354", "CS 3354", "SE 3354"],
-    []
+    ["CE 3354", "CS 3354", "SE 3354"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -5826,10 +5759,7 @@
   "title": "Independent Study in Dance",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -5913,9 +5843,7 @@
   "title": "Theater/Performance Ensemble",
   "hours": 3,
   "desc": "This course is for people who are acting, producing or managing a production. Time will be reserved for rehearsals, script analysis, concept design and general studies. Additional rehearsals, outside of the assigned class time, will be necessary to produce the show. This course provides practical use of theatrical studies. May be repeated for credit as topics vary (9 semester credit hours maximum). Prerequisite: Audition or instructor consent required. (0-3) R",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -5974,9 +5902,7 @@
   "title": "Acting 3",
   "hours": 3,
   "desc": "Material may focus on classic or contemporary drama or on original creations. May be repeated for credit as topics vary (9 semester credit hours maximum). Prerequisite: Audition or instructor consent required. (0-3) R",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -5984,10 +5910,7 @@
   "title": "Independent Study in Drama",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -6311,8 +6234,7 @@
   "hours": 3,
   "desc": "Students will design and implement economic experiments in order to test hypotheses about human behavior and institutional arrangements. Prerequisites: ECON 4334 and instructor consent required. (3-0) R",
   "prereqs": [
-    ["ECON 4334"],
-    []
+    ["ECON 4334"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -6413,9 +6335,7 @@
   "title": "Social Issues and Ethics in Computer Science and Engineering",
   "hours": 3,
   "desc": "This course exposes students to major theoretical approaches and modes of reasoning about ethics while exploring a range of important professional and ethical issues in computing and engineering, and the interrelationship between the computing and engineering professions and important elements of social systems. Issues of professional ethics, computer crime and privacy, intellectual property, the balance between the acceptability of risk and constraints such as cost, scheduling, safety and quality, the role of globalization and various important constitutional issues are explored by drawing upon engineering and computing case studies. Prerequisite: Junior Level Standing. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -6424,8 +6344,7 @@
   "hours": 3,
   "desc": "Expands students' professional and team communication skills and strategies in technical contexts. Integrates writing, speaking and group communication by developing and presenting technical information to different audiences. Written assignments focus on creating professional technical documents, such as proposals, memos, abstracts, reports and letters. Presentation assignments emphasize planning, preparing and delivering dynamic, informative and persuasive presentations. Attendance at first class mandatory. Prerequisites: RHET 1302 and junior standing. (3-0) S",
   "prereqs": [
-    ["RHET 1302"],
-    []
+    ["RHET 1302"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -6459,12 +6378,10 @@
   "hours": 3,
   "desc": "Students will make use of professional engineering/computer science skills within an industrial setting as part of co-op/intern work experience. Detailed midterm and final professional quality engineering reports on the co-op project are required. May be repeated for credit as topics may vary (6 semester credit hours maximum). Prerequisites or Corequisites: ECS 3390 and instructor consent required. (3-0) T",
   "prereqs": [
-    ["ECS 3390"],
-    []
+    ["ECS 3390"]
   ],
   "coreqs": [
-    ["ECS 3390"],
-    []
+    ["ECS 3390"]
   ],
   "sameAs": []
 }, {
@@ -6472,9 +6389,7 @@
   "title": "The American Public School",
   "hours": 3,
   "desc": "A study of the nature, scope, and purposes of the public school, with emphasis on meeting the needs of the multicultural society of Texas. Successful completion of 20 clock hours of field experience is required. Prerequisite: Completion of 45 semester credit hours of course work. (3-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -6608,8 +6523,7 @@
   "desc": "Examines a variety of assessment and evaluation strategies that are appropriate for the classroom teacher - both formal and informal procedures are introduced. Must be officially admitted to teacher certification program. Must register in Teacher Development Center. Prerequisites: ED 4352 and ED 4363 and department consent required. (3-0) S",
   "prereqs": [
     ["ED 4352"],
-    ["ED 4363"],
-    []
+    ["ED 4363"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -6643,8 +6557,7 @@
   "hours": 3,
   "desc": "Focuses on developing and learning methods to teach reading, writing, listening, language arts, speaking and thinking for Grades EC-6. Instructional strategies, thematic teaching, study skills, and effective uses for text, media, and other resources will be utilized. This course is required for all students seeking Generalist EC-6 certification. Must be officially admitted to teacher certification program. Must register in Teacher Development Center. Prerequisite: ED 4352 and department consent required. (3-0) S",
   "prereqs": [
-    ["ED 4352"],
-    []
+    ["ED 4352"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -7140,8 +7053,7 @@
   "prereqs": [
     ["RHET 1302"],
     ["ATEC 2321"],
-    ["ATEC 2322"],
-    []
+    ["ATEC 2322"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -7150,9 +7062,7 @@
   "title": "Topics in Emerging Media and Communications",
   "hours": 3,
   "desc": "The course studies fundamental principles and basic techniques of emerging media and communication. Sections may be devoted exclusively to a single aspect of emerging media and communication or to a multiplicity of subjects related to the field. May be repeated for credit as topics vary (12 semester credit hours maximum). Prerequisite: Upper-division standing. (3-0) R",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -7160,9 +7070,7 @@
   "title": "Capstone Project",
   "hours": 3,
   "desc": "Culminating course in Emerging Media and Communication. Students will engage in the creation of an advanced creative and/or research project exploring the interaction of the arts with digital technology. Restricted to students majoring in Emerging Media and Communication who are within one semester of graduation. Instructor consent required. Prerequisite: Senior Level Standing. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -7170,11 +7078,7 @@
   "title": "Independent Study in Emerging Media and Communication",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisites: Upper-division standing and completion of all lower-division requirements in EMAC and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -7224,8 +7128,7 @@
   "desc": "Computer arithmetic and error analysis. Solution of linear equations, roots of polynomial equations, interpolation and approximation, numerical differentiation and integration, solution of ordinary differential equations. Emphasis on engineering applications and numerical software. Credit cannot be received for both courses, (CS 4334 or MATH 4334) and ENGR 4334. Prerequisites: ENGR 2300 and ENGR 3300 and knowledge of a high level programming language. (3-0) Y",
   "prereqs": [
     ["ENGR 2300"],
-    ["ENGR 3300"],
-    []
+    ["ENGR 3300"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -7235,8 +7138,7 @@
   "hours": 3,
   "desc": "The objective of this course is to introduce undergraduate students to economic evaluation and analysis of engineering projects and proposals. Economic tools are essential for planning and design of engineering systems in today's ever-changing high-tech world. This course will also prepare the electrical engineering students for the \"Engineering Economy\" portion of the Fundamentals of Engineering Exam required for the professional engineer's license. Prerequisites: MATH 2413 or MATH 2417 and upper-division standing. (3-0) T",
   "prereqs": [
-    ["MATH 2413", "MATH 2417"],
-    []
+    ["MATH 2413", "MATH 2417"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -7245,9 +7147,7 @@
   "title": "Entrepreneurship",
   "hours": 3,
   "desc": "Explores all aspects of entrepreneurship and the process of creating new ventures. Topics include innovation and entrepreneurship and the roles of both in the domestic and international economies, opportunity recognition and evaluation, feasibility analysis and validation of assumptions, customer identification, value propositions, business models, market entry strategies, bootstrapping, venture finance, and legal considerations. Student teams will develop a business concept and prepare and present an investor overview presentation. Prerequisite: At least sophomore standing. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -7290,8 +7190,7 @@
   "hours": 3,
   "desc": "Students will learn to assess and conduct in-depth analyses of potential business opportunities, with an emphasis on entrepreneurial business strategies, innovative business models and the determinants of new venture success in high tech and other business environments. Alternative strategies and approaches for market entry and the growth of a new venture will be explored in both domestic and international environments. The application of these frameworks, tools and techniques will be illustrated with case studies and a project focused on evaluating an existing or new venture and making recommendations to its management. Prerequisites: (ENTP 3301 or instructor consent required) and sophomore standing. (3-0) Y",
   "prereqs": [
-    ["ENTP 3301"],
-    []
+    ["ENTP 3301"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -7320,9 +7219,7 @@
   "title": "Social Entrepreneurship",
   "hours": 3,
   "desc": "This course will explore the role and importance of the non-profit sector and the unique place it occupies in twenty-first century life. The course will develop theoretical and conceptual frameworks appropriate for understanding the processes and challenges of non-profit ventures in the social sector. Student teams will work with selected non-profits in the local community on projects focused on the issues and challenges of mission definition, service delivery, business practices, fund-raising and governance. Prerequisites: at least junior standing. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -7331,8 +7228,7 @@
   "hours": 3,
   "desc": "This course seeks to equip student with the skills required to develop new ideas and create viable new businesses within the context of an established organization. The course will address the development of an internal culture of innovation, processes for reviewing ideas and for developing business concepts, strategic analysis, and positioning for competitive advantage. The course will address both domestic and international corporate entrepreneurship. Prerequisites: (ENTP 3301 or instructor consent required), and at least junior standing. (3-0) Y",
   "prereqs": [
-    ["ENTP 3301"],
-    []
+    ["ENTP 3301"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -7341,9 +7237,7 @@
   "title": "Innovation and Creativity",
   "hours": 3,
   "desc": "This course will explore individual creativity and organizational innovation. Topics will include the nature of creativity, the development of an innovative mind-set in individuals, the antecedents and processes of individual and group creativity, the barriers to and management of corporate innovation, and the development of the managerial skills essential to the stimulation and management of group creativity and innovation. The course will be organized around a series of individual and team-based innovation challenges. Prerequisites: at least junior standing. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -7477,10 +7371,7 @@
   "title": "Independent Study in Film",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -7769,8 +7660,7 @@
   "hours": 3,
   "desc": "For students involved in the practice of investment management for the university. May be repeated for credit (6 semester credit hours maximum). Prerequisite: FIN 4300 and instructor consent required. (3-0) R",
   "prereqs": [
-    ["FIN 4300"],
-    []
+    ["FIN 4300"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -7804,8 +7694,7 @@
   "hours": 1,
   "desc": "For students interested in pursuing further study of a topic in finance. May be repeated for credit (3 semester credit hours maximum). Prerequisites: (FIN 4300 or FIN 4310) and faculty sponsor approval. ([1-3]-0) R",
   "prereqs": [
-    ["FIN 4300", "FIN 4310"],
-    []
+    ["FIN 4300", "FIN 4310"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -8041,8 +7930,7 @@
   "desc": "Introduction to fundamental methods of field geologic investigations, including topographic, air photo, and geologic map interpretation and preparation and use of common field geologic tools (Brunton compass, hand-held GPS, and a field notebook). Applications of field methods in the Earth Sciences will be presented. There will be a mandatory field trip over part of spring break with a fee, which covers the cost of transportation and camping fees for the spring break field trip. Prerequisites: GEOS 1103 and GEOS 1303 and mandatory field trip. (3-0) Y",
   "prereqs": [
     ["GEOS 1103"],
-    ["GEOS 1303"],
-    []
+    ["GEOS 1303"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -8283,10 +8171,7 @@
   "title": "Senior Research and Advanced Writing",
   "hours": 3,
   "desc": "For students conducting independent research and scientific writing in Geosciences. Subject and scope to be determined on an individual basis. Satisfies the Advanced Writing Requirement for Geoscience majors. This course will retain core notation for a transition period - see http://go.utdallas.edu/core-curriculum-transition. Please consult advisors for more detailed information. Prerequisites: Instructor consent required and senior level standing in Geosciences. (3-0) S",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -8843,8 +8728,7 @@
   "hours": null,
   "desc": "(3 semester credit hours) An interdisciplinary analysis of the origins and development of western science and its construction of natural knowledge from the ancient world through the near present. This course is especially designed for those training to be elementary and secondary science and mathematics teachers including UTeach students; it may be available to others interested in the interdisciplinary relations of science and the humanities, such as pre-health majors, etc. Prerequisites: HIST 1301 or HIST 1302 or HIST 2301 or HIST 2330 or HIST 2331 or equivalent and department consent required. (3-0) T",
   "prereqs": [
-    ["HIST 1301", "HIST 1302", "HIST 2301", "HIST 2330", "HIST 2331"],
-    []
+    ["HIST 1301", "HIST 1302", "HIST 2301", "HIST 2330", "HIST 2331"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -9412,9 +9296,7 @@
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisites: (HIST 1301 or HIST 1302 or HIST 2301 or HIST 2330 or HIST 2331) and upper-division standing and instructor consent required. ([1-3]-0) R",
   "prereqs": [
-    ["HIST 1301", "HIST 1302", "HIST 2301", "HIST 2330", "HIST 2331"],
-    [],
-    []
+    ["HIST 1301", "HIST 1302", "HIST 2301", "HIST 2330", "HIST 2331"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -9463,10 +9345,7 @@
   "title": "Pre-Health Professional Development",
   "hours": 3,
   "desc": "This course will introduce students to the concept of professionalism within a healthcare context including issues of appropriate personal attributes and expectations, ethical decision making, interpersonal communication, and self-appraisal. It will also have an overview of the history of medicine in the U.S., and examination of current issues in healthcare and discussions about personal enrichment through research, clinical activities, and study abroad experiences. Prerequisites: Must be at least a sophomore and instructor consent required. (3-0) Y",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -9522,9 +9401,7 @@
   "title": "Special Topics in Healthcare",
   "hours": 3,
   "desc": "May be repeated for credit as topics vary (6 semester credit hours maximum). Prerequisites: upper-division standing or instructor or Associate Dean consent required. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -9700,8 +9577,7 @@
   "hours": 1,
   "desc": "This course familiarizes students with the historical, social, economic, and political background of nations in Latin America. Students will learn about the business environment of the area and participate in seminars on firms that operate in and have an economic impact in the area. May be repeated for credit (3 semester credit hours maximum). Prerequisite: IMS 3310 and instructor consent required. ([1-3]-0) R",
   "prereqs": [
-    ["IMS 3310"],
-    []
+    ["IMS 3310"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -9711,8 +9587,7 @@
   "hours": 1,
   "desc": "This course familiarizes students with the historical, social, economic, and political background of nations in Europe. Students will learn about the business environment of the area and participate in seminars on firms that operate in and have an economic impact in the area. May be repeated for credit (3 semester credit hours maximum). Prerequisite: IMS 3310 and instructor consent required. ([1-3]-0) R",
   "prereqs": [
-    ["IMS 3310"],
-    []
+    ["IMS 3310"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -9722,8 +9597,7 @@
   "hours": 1,
   "desc": "This course familiarizes students with the historical, social, economic, and political background of nations in Asia. Students will learn about the business environment of the area and participate in seminars on firms that operate in and have an economic impact in the area. May be repeated for credit (3 semester credit hours maximum). Prerequisite: IMS 3310 and instructor consent required. ([1-3]-0) R",
   "prereqs": [
-    ["IMS 3310"],
-    []
+    ["IMS 3310"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -9733,8 +9607,7 @@
   "hours": 1,
   "desc": "This course familiarizes students with the historical, social, economic, and political background of nations in Africa. Students will learn about the business environment of the area and participate in seminars on firms that operate in and have an economic impact in the area. May be repeated for credit (3 semester credit hours maximum). Prerequisite: IMS 3310 and instructor consent required. ([1-3]-0) R",
   "prereqs": [
-    ["IMS 3310"],
-    []
+    ["IMS 3310"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -9744,8 +9617,7 @@
   "hours": 1,
   "desc": "This course familiarizes students with the historical, social, economic, and political background of nations in North America. Students will learn about the business environment of the area and participate in seminars on firms that operate in and have an economic impact in the area. May be repeated for credit (3 semester credit hours maximum). Prerequisite: IMS 3310 and instructor consent required. ([1-3]-0) R",
   "prereqs": [
-    ["IMS 3310"],
-    []
+    ["IMS 3310"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -9755,8 +9627,7 @@
   "hours": 1,
   "desc": "This course familiarizes students with the historical, social, economic, and political background of nations in Eastern Europe. Students will learn about the business environment of the area and participate in seminars on firms that operate in and have an economic impact in the area. May be repeated for credit (3 semester credit hours maximum). Prerequisite: IMS 3310 and instructor consent required. ([1-3]-0) R",
   "prereqs": [
-    ["IMS 3310"],
-    []
+    ["IMS 3310"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -10118,10 +9989,7 @@
   "title": "Costa Rica Field Trip",
   "hours": 3,
   "desc": "Costa Rica is world famous for its dedication to the concept of sustainability. This field trip class will visit different locations in Costa Rica to better understand the diversity of its environment, its non-human primates, its practices that help sustainability and related ecological and social issues. The emphasis on particular aspects of the course may vary from year to year but the major emphasis is sustainability. This course has a service learning component. Prerequisite: Student must be in good academic standing and instructor consent required. (3-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10129,10 +9997,7 @@
   "title": "Teaching Internship",
   "hours": 1,
   "desc": "Students work individually with faculty members in preparing and presenting course materials and tutoring students. Credit/No Credit only. May be repeated for credit (6 semester credit hours maximum). Prerequisites: Must have completed the relevant course with a grade of at least B and have a UT Dallas grade point average of at least 3.000 and instructor and Associate Dean consent required. ([1-3]-0) S",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10338,10 +10203,7 @@
   "title": "Topics in Language",
   "hours": 3,
   "desc": "May be repeated for credit as topics vary (6 semester credit hours maximum). Prerequisites: Upper-division standing and instructor consent required. (3-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10357,10 +10219,7 @@
   "title": "Independent Study in Language",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10741,9 +10600,7 @@
   "title": "Major Authors",
   "hours": 3,
   "desc": "Study of one or more major literary figures such as Faulkner, Cervantes, Chaucer, Milton, Goethe, Blake, Balzac, Borges, Mann, Eliot, Austen, Dostoevsky, Paz, and Tolstoy. May be repeated for credit as subjects vary (9 semester credit hours maximum). Prerequisite: Upper-division standing or instructor consent required. (3-0) T",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10751,9 +10608,7 @@
   "title": "Dante",
   "hours": 3,
   "desc": "A close reading of The Divine Comedy (Inferno, Purgatorio, Paradiso) in its historical, philosophical, religious, and poetic contexts, along with related works by Dante and his contemporaries. Prerequisite: Upper-division standing or instructor consent required. (3-0) T",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10761,9 +10616,7 @@
   "title": "The Modern Novel",
   "hours": 3,
   "desc": "A study of several landmarks, late nineteenth and twentieth century novels, with attention to their literary, intellectual, and historical qualities. Authors may include Borges, Joyce, Proust, Mann, Garcia Marquez, or others. May be repeated for credit as topics vary (6 semester credit hours maximum). Prerequisite: Upper-division standing or instructor consent required. (3-0) T",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10771,9 +10624,7 @@
   "title": "Contemporary Literature",
   "hours": 3,
   "desc": "Major trends in contemporary world literature with particular emphasis on the last ten years. Prerequisite: Upper-division standing or instructor consent required. (3-0) T",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10781,9 +10632,7 @@
   "title": "Topics in Literary Studies",
   "hours": 3,
   "desc": "May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing or instructor consent required. (3-0) R",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10791,10 +10640,7 @@
   "title": "Independent Study in Literary Studies",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisites: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10802,10 +10648,7 @@
   "title": "Senior Honors in Literary Studies",
   "hours": 1,
   "desc": "Intended for students conducting independent research for honors theses or projects. Signature of instructor and secondary reader on the proposed project outline required. Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10813,9 +10656,7 @@
   "title": "College Algebra for the Non-Scientist",
   "hours": 3,
   "desc": "This course is intended for students NOT continuing on to precalculus or calculus. The course is designed to develop both abstract thinking and a practical approach to problem solving. The emphasis is on understanding rather than purely computational skills. Topics include logic, sets, the real numbers, linear equations and their applications, functions, and graphs. May not be used to satisfy major requirements for majors in the Schools of Natural Sciences and Mathematics or Management, or degree requirements for the School of Engineering and Computer Science. Not all MATH/STAT courses may be counted toward various degree plans. Please consult your degree plan to determine the appropriate MATH/STAT course requirements. Prerequisite: A score of 20% on ALEKS math placement exam. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -10823,9 +10664,7 @@
   "title": "College Algebra",
   "hours": 3,
   "desc": "Topics chosen from areas such as equations and inequalities, rational expressions, exponents, radicals and logarithms, functions, and graphs. Exam section required for MATH 1314. May not be used to satisfy major requirements for majors in the Schools of Natural Sciences and Mathematics or Management, or degree requirements for the School of Engineering and Computer Science. Not all MATH/STAT courses may be counted toward various degree plans. Please consult your degree plan to determine the appropriate MATH/STAT course requirements. Prerequisite: A score of 35% on ALEKS math placement exam. (3-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -11167,10 +11006,7 @@
   "title": "Senior Research and Advanced Writing",
   "hours": 3,
   "desc": "For students conducting independent research and scientific writing. Individual instruction course designed to develop skills for research and clear, precise and accurate scientific writing. Topics will vary from section to section depending upon the interests of the student, but will be selected from a specific area of mathematics. Subject and scope to be determined on an individual basis. Satisfies the School of Natural Sciences and Mathematics' advanced writing requirement. This course will retain core notation for a transition period - see http://go.utdallas.edu/core-curriculum-transition. Please consult advisors for more detailed information. Prerequisite: Senior level standing in Mathematics and instructor consent required. (3-0) S",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -11920,8 +11756,7 @@
   "prereqs": [
     ["MKT 3300"],
     ["MKT 3330"],
-    ["BCOM 3310", "BCOM 3311"],
-    []
+    ["BCOM 3310", "BCOM 3311"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -12263,9 +12098,7 @@
   "title": "Guitar II",
   "hours": 3,
   "desc": "Course builds musicianship and classical guitar technique through coaching and ensemble performance. Repertoire includes music from the sixteenth century to present-day composers. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Instructor consent required. (0-3) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -12399,9 +12232,7 @@
   "title": "Chamber Singers II",
   "hours": 3,
   "desc": "Chamber Singers II are a performing ensemble of approximately 24 singers with substantial choral experience, performing on a regular basis at the University and in the community, and often with instrumental and other choral ensembles. Some concerts may involve staging and memorization. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Audition or instructor consent required. (0-3) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -12433,10 +12264,7 @@
   "title": "Independent Study in Music",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -12493,13 +12321,11 @@
   "desc": "Provides students with experience in a laboratory setting. A total of at most 6 semester credit hours can be counted towards the minor. Hands-on opportunity to interact with professors and companies in the field. May be repeated (9 semester credit hours maximum). Prerequisites or Corequisites: NANO 3301 and NANO 3302 and instructor consent required. ([1-9]-0) S",
   "prereqs": [
     ["NANO 3301"],
-    ["NANO 3302"],
-    []
+    ["NANO 3302"]
   ],
   "coreqs": [
     ["NANO 3301"],
-    ["NANO 3302"],
-    []
+    ["NANO 3302"]
   ],
   "sameAs": []
 }, {
@@ -12515,9 +12341,7 @@
   "title": "UTeach STEP 1",
   "hours": 1,
   "desc": "Introduction to mathematics and science teaching as a career. Master teachers introduce students to examples of high quality inquiry-based lesson design as well as model various pedagogical concepts and behavior management strategies. Students are also introduced to the portfolio project. Fieldwork consists of two classroom observations plus planning and teaching three inquiry-based lessons to students in grades four to six in local elementary schools. One and one-half class hours a week for one semester; at least ten hours of fieldwork a semester are also required. Prerequisites: A university grade point average of at least 2.750 and admission to the UTeach Dallas program by consent of the UTeach advisor. (1-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -12525,9 +12349,7 @@
   "title": "UTeach STEP 2",
   "hours": 1,
   "desc": "Continued exploration into mathematics and science teaching as a career. Topics include various teaching methods that are designed to meet instructional goals; use of various technologies; and learner outcomes. Fieldwork consists of classroom observations and teaching three inquiry-based math or science lessons in a middle school classroom. One and one-half class hours a week for one semester; at least twenty hours of fieldwork a semester are also required. Prerequisites: A university grade point average of at least 2.750 and a grade of B- or better in NATS 1141 and UTeach advisor consent required. (1-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -12575,9 +12397,7 @@
   "title": "Knowing and Learning in Mathematics and Science",
   "hours": 3,
   "desc": "This course expands the prospective teacher's understanding of current theories of learning and conceptual development. Students examine their own assumptions about learning. Topics include psychological foundations of learning; problem solving in mathematics and science education utilizing technology; principles of expertise and novice understanding of subject matter; implications of high-stakes testing; and foundations of formative and summative assessment. Three lecture hours a week for one semester; additional hours may be required. Restricted to students in the UTeach Dallas program. Prerequisites: A university grade point average (GPA) of at least 2.750 and a GPA of 3.000 or better in UTeach coursework and UTeach advisor consent required. (3-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -12585,9 +12405,7 @@
   "title": "Classroom Interactions",
   "hours": 3,
   "desc": "This course moves from a focus on thinking and learning to a focus on teaching and learning. Topics include principles of delivering effective instruction in various formats (lecture, lab activity, collaborative settings); examination of gender, class, race, and culture in mathematics and science education; overview of policy related to mathematics and science education. Students participate in an intensive, highly coached high school field experience comprised of 3 observations and 2 co-teaching events, including a multiple-period or day, connected lesson. Three lecture hours a week for one semester; at least twenty hours of fieldwork a semester are also required. Students should also expect to dedicate out-of-class time to video transfer, lesson planning, and working on the portfolio project. Restricted to students in the UTeach Dallas program. Prerequisites: A university grade point average (GPA) of at least 2.750 and credit or registration for NATS 3341 and a GPA of 3.000 or better in UTeach coursework and UTeach advisor consent required. (3-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -12616,8 +12434,7 @@
   "hours": 3,
   "desc": "Students explore topics including foundations of project-based, case-based, and problem-based learning environments; principles of project-based curriculum development in mathematics and science education; and, classroom management and organization of project-based learning classrooms are covered. Fieldwork usually includes 2 observation days and 3 teaching days. Three lecture hours a week for one semester with additional fieldwork hours to be arranged. Prerequisites: NATS 3343 and a university grade point average (GPA) of at least 2.750 and a GPA of 3.000 or better in UTeach coursework and UTeach advisor consent required. Prerequisite or Corequisite: NATS 4390. (3-0) Y",
   "prereqs": [
-    ["NATS 3343"],
-    []
+    ["NATS 3343"]
   ],
   "coreqs": [
     ["NATS 4390"]
@@ -12629,8 +12446,7 @@
   "hours": 3,
   "desc": "Independent research and advanced writing content course in the UTeach sequence. Satisfies the advanced writing requirement for UTeach student majoring in Biology, Chemistry, Physics or Geosciences. This course will retain core notation for a transition period - see http://go.utdallas.edu/core-curriculum-transition. Please consult advisors for more detailed information. Prerequisites: NATS 3341 and a university grade point average (GPA) of at least 2.750 and a GPA of 3.000 or better in UTeach coursework and upper-level standing and UTeach advisor consent required. Prerequisite or Corequisite: NATS 3343. (3-0) S",
   "prereqs": [
-    ["NATS 3341"],
-    []
+    ["NATS 3341"]
   ],
   "coreqs": [
     ["NATS 3343"]
@@ -12643,8 +12459,7 @@
   "desc": "Closely supervised observation and teaching in a science or mathematics classroom for Grades 8-12. Experience includes carrying out the duties of a high school teacher and requires a minimum of four hours of fieldwork a day for 12 weeks. Students must apply for Apprentice Teaching the semester prior to enrollment. Additional fee attached to course. Prerequisites: (NATS 4341 and NATS 4390) and a university grade point average (GPA) of at least 2.750 and a GPA of 3.000 or better in UTeach coursework and UTeach advisor consent required. Admission to the university's teacher certification program by the Teacher Development Center. Corequisite: NATS 4141. (6-0) S",
   "prereqs": [
     ["NATS 4341"],
-    ["NATS 4390"],
-    []
+    ["NATS 4390"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -12655,8 +12470,7 @@
   "desc": "Closely supervised observation and teaching in a science or mathematics classroom for Grades 4-8. Experience includes carrying out the duties of a middle grades teacher and requires a minimum of four hours of fieldwork a day for 12 weeks. Students must apply for Apprentice Teaching the semester prior to enrollment. Additional fee attached to course. Prerequisites: (NATS 4341 and NATS 4390) and a university grade point average (GPA) of at least 2.750 and a GPA of 3.000 or better in UTeach coursework and UTeach advisor consent required. Admission to the university's teacher certification program by the Teacher Development Center. Corequisite: NATS 4141. (6-0) S",
   "prereqs": [
     ["NATS 4341"],
-    ["NATS 4390"],
-    []
+    ["NATS 4390"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -13059,9 +12873,7 @@
   "title": "Principles of Management",
   "hours": 3,
   "desc": "This course will introduce students to the connections between areas in management, emphasizing the role that organizational behavior plays in the functioning of the organization. Students will have the opportunity to learn and implement ideas through the use of exercises and case studies. The student will gain useful tools to identify problems in organizations, apply solutions and understand outcomes. Prerequisite: Junior or Senior standing. (3-0) S",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -13098,9 +12910,7 @@
   "title": "Management of Non-Profit Organizations",
   "hours": 3,
   "desc": "This course examines the role of non-profit organizations in today's society and discusses the challenges of managing a non-profit both internally and externally concerning areas such as leadership, mission, program planning, budgeting, personnel, marketing, fundraising, volunteerism, and cross-sector collaboration. Prerequisite: Junior or Senior standing. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -13167,7 +12977,6 @@
   "hours": 3,
   "desc": "This course explores the theories, processes and practical techniques of negotiation so that students can successfully negotiate and resolve disputes in a variety of situations including interpersonal and group settings. Emphasis is placed on understanding influence and conflict resolution strategies; identifying interests, issues, and positions of the parties involved; analyzing co-negotiators, their negotiation styles, and the negotiation situations; and managing the dynamics associated with most negotiations. Practical skills are developed through the use of simulations and exercises. Prerequisites: Junior or Senior standing and (MATH 1326 or MATH 2414 or MATH 2419). (3-0) Y",
   "prereqs": [
-    [],
     ["MATH 1326", "MATH 2414", "MATH 2419"]
   ],
   "sameAs": [],
@@ -13657,9 +13466,7 @@
   "title": "Philosophical Concepts",
   "hours": 3,
   "desc": "A study of the origin, continuity, and diffusion of major philosophical ideas, viewed primarily in historical context. May be repeated for credit as topics vary (9 semester credit hours maximum). Prerequisite: Upper-division standing or instructor consent required. (3-0) T",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -13717,10 +13524,7 @@
   "title": "Independent Study in Philosophy",
   "hours": 1,
   "desc": "Independent study under a faculty member's direction. Signature of instructor and Associate Dean on proposed project outline required. May be repeated for credit (9 semester credit hours maximum). Prerequisite: Upper-division standing and instructor consent required. ([1-3]-0) R",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -14374,9 +14178,7 @@
   "title": "Legal Reasoning",
   "hours": 3,
   "desc": "Examines various theories of the philosophy of law and various case studies of the interaction between law and society. Students will develop the critical thinking and methodological skills necessary for success on the LSAT, success in law school and success in the legal profession. Prerequisite: Instructor consent required. (3-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -14577,9 +14379,7 @@
   "title": "Modern Individualism",
   "hours": 3,
   "desc": "An investigation of the development and criticism of the modern concept of the individual in political philosophy. Among the issues to be considered are the relationship between the mind and the body in the individual, the nature of reason, passions, and instincts, the origins of morality and justice, the nature of political obligation, and the relationship between the individual and society. Prerequisite: Instructor consent required. (3-0) T",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -15402,8 +15202,7 @@
   "hours": 1,
   "desc": "For students interested in pursuing further study of a topic in real estate. May be repeated for credit (3 semester credit hours maximum). Prerequisites: (REAL 3365 or REAL 4365) and faculty sponsor approval. ([1-3]-0) R",
   "prereqs": [
-    ["REAL 3365", "REAL 4365"],
-    []
+    ["REAL 3365", "REAL 4365"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -15532,9 +15331,7 @@
   "desc": "An introduction to fundamental concepts in operating systems: their design, implementation, and usage. Topics include process management, main memory management, virtual memory, I/O and device drivers, file systems, secondary storage management, and an introduction to critical sections and deadlocks. Prerequisites: (CS 3340 or SE 3340 or TE 3340 or equivalent), and (CE 3345 or CS 3345 or SE 3345 or TE 3345), and a working knowledge of C and UNIX. (Same as CE 4348 and CS 4348 and TE 4348) (3-0) S",
   "prereqs": [
     ["CS 3340", "SE 3340", "TE 3340"],
-    ["CE 3345", "CS 3345", "SE 3345", "TE 3345"],
-    [],
-    []
+    ["CE 3345", "CS 3345", "SE 3345", "TE 3345"]
   ],
   "sameAs": ["CE 4348", "CS 4348", "TE 4348"],
   "coreqs": []
@@ -15605,8 +15402,7 @@
   "hours": 4,
   "desc": "This course is intended to complement the theory and to provide an in-depth, hands-on experience in all aspects of software engineering. The students will work in teams on projects of interest to industry and will be involved in analysis of requirements, architecture and design, implementation, testing and validation, project management, software process, software maintenance, and software re-engineering. Students will also explore the potential impact of software systems on society. Additionally, this course will cover topics related to the software engineering profession including ethics and professional responsibility, entrepreneurship, and leadership. Prerequisites: At least two of the following: SE 4351 or SE 4352 or SE 4367 or SE 4381 and instructor consent required. (4-1) S",
   "prereqs": [
-    ["SE 4351", "SE 4352", "SE 4367", "SE 4381"],
-    []
+    ["SE 4351", "SE 4352", "SE 4367", "SE 4381"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -16174,8 +15970,7 @@
     ["SPAU 3388"],
     ["SPAU 3340"],
     ["SPAU 3343"],
-    ["SPAU 4308"],
-    []
+    ["SPAU 4308"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -16338,10 +16133,7 @@
   "title": "Statistical Computer Packages",
   "hours": 1,
   "desc": "An introduction to the use of statistics packages, such as SAS, BMD, SPSS, Minitab, and S, for the analysis of data. Based primarily on self-study materials. May not used to satisfy degree requirements for mathematics majors. Prerequisites: one semester of statistics and instructor consent required. (1-0) S",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -16587,9 +16379,7 @@
   "desc": "An introduction to fundamental concepts in operating systems: their design, implementation, and usage. Topics include process management, main memory management, virtual memory, I/O and device drivers, file systems, secondary storage management, and an introduction to critical sections and deadlocks. Prerequisites: (CS 3340 or SE 3340 or TE 3340 or equivalent), and (CE 3345 or CS 3345 or SE 3345 or TE 3345), and a working knowledge of C and UNIX. (Same as CE 4348 and CS 4348 and SE 4348) (3-0) S",
   "prereqs": [
     ["CS 3340", "SE 3340", "TE 3340"],
-    ["CE 3345", "CS 3345", "SE 3345", "TE 3345"],
-    [],
-    []
+    ["CE 3345", "CS 3345", "SE 3345", "TE 3345"]
   ],
   "sameAs": ["CE 4348", "CS 4348", "SE 4348"],
   "coreqs": []
@@ -16711,10 +16501,7 @@
   "title": "Seminar for Pre-Law Professionals",
   "hours": 0,
   "desc": "This course is designed to help students discover and develop the skills necessary to succeed in the law school application process and law school. Students will explore various topics in a legal education and professional development context including issues of appropriate personal attributes and expectations, interpersonal communication, and self-appraisal. May not be repeated. Prerequisites: Sophomore standing and instructor consent required. (2-0) Y",
-  "prereqs": [
-    [],
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -16722,9 +16509,7 @@
   "title": "Seminar: Evaluating Competencies for Entry to Health Professions Schools",
   "hours": 0,
   "desc": "This seminar is designed to help students explore professional competencies desired in healthcare fields, with particular emphasis on medicine, dentistry, podiatry and other professions requiring advanced degrees. Students will engage in learning centered around behavioral and ethical concepts, including integrity and social responsibility, as these relate to the delivery of healthcare and students pre-professional preparation in the context of the UT Dallas Health Professions Evaluation Process and application to health professions schools. May not be repeated. Prerequisite: Junior standing. (2-0) Y",
-  "prereqs": [
-    []
-  ],
+  "prereqs": [],
   "sameAs": [],
   "coreqs": []
 }, {
@@ -16773,8 +16558,7 @@
   "hours": 1,
   "desc": "An elective course designed to provide students with a basic understanding of the theoretical knowledge and skills needed to lead and motivate groups engaged in personal or professional transitions. Includes supervised and paraprofessional experience. May be repeated for credit (3 semester credit hours maximum). Prerequisites: UNIV 4074 and instructor consent required. (1-0) Y",
   "prereqs": [
-    ["UNIV 4074"],
-    []
+    ["UNIV 4074"]
   ],
   "sameAs": [],
   "coreqs": []
@@ -16785,8 +16569,7 @@
   "desc": "An elective course designed to provide students with an advanced understanding of the theoretical knowledge and skills needed to lead and motivate groups engaged in personal or professional transitions. Includes supervised and paraprofessional experience. May be repeated for credit (4 semester credit hours maximum). Prerequisites: UNIV 4074 and UNIV 4174 and instructor consent required. (2-0) Y",
   "prereqs": [
     ["UNIV 4074"],
-    ["UNIV 4174"],
-    []
+    ["UNIV 4174"]
   ],
   "sameAs": [],
   "coreqs": []
