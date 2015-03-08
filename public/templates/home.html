@@ -8,6 +8,15 @@
 <div class="row">
   <div class="col-md-4">
     <h2>Courses taken</h2>
+    <ul>
+      <li ng-repeat="c in taken">{{ c }}</li>
+    </ul>
+
+    <form class="form-inline">
+      <input type="text" class="form-control" ng-model="takenName" placeholder="Course name" />
+      <button class="btn btn-primary" ng-click="addTaken()"><i class="fa fa-plus"></i>&nbsp;Add</button>
+    </form>
+
   </div>
   <div class="col-md-4">
     <h2>Courses left</h2>
@@ -16,4 +25,3 @@
     <h2>Suggested Courses</h2>
   </div>
 </div>
-
