@@ -17,7 +17,19 @@ function myFunction(response) {
     out += "</table>"
     document.getElementById("id01").innerHTML = out;
 }
-function check(s1, s2){
+
+function compatible(s1, s2){
+    boolean b = true;
+    for(day = 0; day < 7; day++){
+	if(s1.days[day] && s2.days[day]){
+	    if(checkTime(s1,s2))
+		b = false;
+	}
+    }
+    return b;
+}
+
+function checkTime(s1, s2){
     if((s1.start < s2.end && s1.end > s2.end) || (s2.start < s1.end && s2.end > s1.end))
 	return false;
     return true;
@@ -27,7 +39,7 @@ var finalList = [];
 function generate(course){
     for(i = 0; i < array[course].length; i++){
 	for(j = 0; j < options.length && options[j]!= null; j++){
-	    if(check(options[j], desired[course][i])){
+	    if(compatible(options[j], desired[course][i])){
 		options[course] = desired[course][i];
 		if(course == desired.length - 1){
 		    finalList[finalList.length] = options;
