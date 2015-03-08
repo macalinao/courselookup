@@ -5,7 +5,7 @@
 <div id="id01"></div>
     
 <script>
-var Array = 
+var Array = [] //the input of desired courses to be added to the schedule
 var xmlhttp = new XMLHttpRequest();
 var url = "The special url";
 
@@ -24,11 +24,18 @@ function myFunction(response) {
     out += "</table>"
     document.getElementById("id01").innerHTML = out;
 }
-var options = new Array();
-for(i = 0; i < array.length; i++) {
-    for(j = 0; j < array[i].length; j++){
-	if(array[i][j].StartTime < EndTime);
-	array[i][j].EndTime;
+var options = [];
+for(i = 0; i < array[0].length; i++) {
+    for(j = 1; j < array.length; j++){
+	for(l = 0; l < array[j].length; l++){
+	    for(k = 0; options[k] != null && k < options.length; k ++){
+		if(array[i][j].StartTime > options[k].EndTime || options[k].Start > array[i][j].EndTime){
+		    options[k+1] = array[i][j];
+		}else{
+		    break();
+		}
+	    }
+	}
     }
 }
 </script>
