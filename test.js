@@ -1,8 +1,11 @@
 var expect = require('chai').expect;
-var func = require('./');
+var coursesuggest = require('./');
 
 describe('coursesuggest', function() {
-  it('should ...', function() {
-    expect(true).to.be.true;
+  it('should find the courses', function(done) {
+    coursesuggest.findCourses('cs').then(function(res) {
+      console.log(res);
+      done();
+    });
   });
 });
