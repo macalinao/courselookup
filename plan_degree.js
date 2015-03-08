@@ -32,6 +32,20 @@ module.exports = function planDegree(taken, pending, load) {
     while (eligible.length > 0 && remaining > 0) {
       var next = eligible.pop();
       var add = [next];
+
+      if (next.coreqs) {
+        var needed = _.cloneDeep(next.coreqs);
+        var coreqs = eligible.filter(function(c) {
+          for (var i = 0; i < needed.length; i++) {
+            var set = needed[i];
+            if (set.indexOf(c.name) !== -1) {
+              return true;
+            }
+          }
+          return false;
+        });
+      }
+
       var hrs = add.reduce(function(a, b) {
         return a + b.hours;
       }, 0);
