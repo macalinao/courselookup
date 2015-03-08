@@ -1,5 +1,5 @@
 var fs = require('fs');
-var courses = JSON.parse(fs.readFileSync('data/courses.json').toString());
+var courses = JSON.parse(fs.readFileSync('data/courses.raw.json').toString());
 console.log('Flattening courses...');
 courses = courses.reduce(function(a, b) {
   return a.concat(b);
@@ -32,5 +32,5 @@ courses = courses.map(function(course) {
 });
 console.log('Fixed.');
 console.log('Writing...');
-fs.writeFileSync('data/courses.flat.json', JSON.stringify(courses));
+fs.writeFileSync('data/courses.json', JSON.stringify(courses));
 console.log('Written.');

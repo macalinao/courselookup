@@ -9,5 +9,17 @@ module.exports = function planDegree(taken, pending, load) {
   });
 
   // Plan semesters
+  var plan = [];
 
+  // Get them
+  while (pending.length > 0) {
+    // Find all eligible courses
+    var eligible = pending.filter(function(course) {
+      return courses.canTake(taken, course);
+    }).map(function(course) {
+      return courses.details(course);
+    });
+
+    // Find hours and put them in
+  }
 };

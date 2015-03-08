@@ -96,7 +96,7 @@ function findAllCourses() {
 console.log('Finding all courses...');
 findAllCourses().then(function(res) {
   console.log('Courses found. Writing file...');
-  require('fs').writeFile('courses.json', JSON.stringify(res), function() {
-    console.log('Courses written to courses.json');
+  require('fs').writeFile('data/courses.raw.json', JSON.stringify(res), function() {
+    console.log('Courses written to courses.raw.json');
   });
 });
