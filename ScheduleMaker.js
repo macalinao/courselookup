@@ -31,9 +31,7 @@ for(i = 0; i < array[0].length; i++) {
 	    for(k = 0; options[k] != null && k < options.length; k ++){
 		if(array[i][j].StartTime > options[k].EndTime || options[k].Start > array[i][j].EndTime){
 		    options[k+1] = array[i][j];
-		}else{
-		    break();
-		}
+		}		
 	    }
 	}
     }
