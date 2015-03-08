@@ -5,6 +5,68 @@ courses = courses.reduce(function(a, b) {
   return a.concat(b);
 });
 console.log('Flattened.');
+console.log('Parsing descriptions for info...');
+courses = courses.map(function(course) {
+
+  var descs = course.desc.split('.').map(function(el) {
+    return el.trim();
+  });
+
+  var prereq = (descs.filter(function(el) {
+    return el.indexOf('Prerequisite') === 0;
+  }) || [])[0];
+  if (prereq) {
+    var prereqs = prereq.substring(prereq.indexOf(':') + 2).split(' and ').map(function(el) {
+      while (el.indexOf('(') === 0) {
+        var close = el.indexOf(')');
+        if (close === -1) {
+          el = el.substring(1);
+        } else {
+          el = el.substring(1, close);
+        }
+      }
+      return el.split(' or ');
+    });
+  }
+
+  var coreq = (descs.filter(function(el) {
+    return el.indexOf('Corequisite') !== -1;
+  }) || [])[0];
+  if (coreq) {
+    var coreqs = coreq.substring(coreq.indexOf(':') + 2).split(' and ').map(function(el) {
+      while (el.indexOf('(') === 0) {
+        var close = el.indexOf(')');
+        if (close === -1) {
+          el = el.substring(1);
+        } else {
+          el = el.substring(1, close);
+        }
+      }
+      return el.split(' or ');
+    });
+  }
+
+  var same = (descs.filter(function(el) {
+    return el.indexOf('(Same as') !== -1;
+  }) || [])[0];
+  var sameAs = [];
+  if (same) {
+    var re = /([A-Z]+ [0-9]{4})/g;
+    do {
+      var match = re.exec(same);
+      if (match) {
+        sameAs.push(match[1]);
+      }
+    } while (match);
+  }
+
+  course.prereqs = prereqs;
+  course.coreqs = coreqs;
+  course.sameAs = sameAs;
+
+  return course;
+});
+console.log('Parsed.');
 console.log('Fixing bad course names...');
 courses = courses.map(function(course) {
 
