@@ -1,0 +1,47 @@
+<div class="row">
+  <div class="col-md-12">
+    <h1>Suggest courses</h1>
+    <p>To use CourseSuggest, input your courses below and we'll suggest a degree plan for you.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <h2>Courses taken</h2>
+    <ul>
+      <li ng-repeat="c in taken">{{ c }}</li>
+    </ul>
+
+    <form class="form-inline">
+      <input type="text" class="form-control" ng-model="takenName" placeholder="Course name" />
+      <button class="btn btn-primary" ng-click="addTaken()"><i class="fa fa-plus"></i>&nbsp;Add</button>
+    </form>
+
+  </div>
+  <div class="col-md-4">
+    <h2>Courses pending</h2>
+
+    <ul>
+      <li ng-repeat="c in pending">{{ c }}</li>
+    </ul>
+
+    <form class="form-inline">
+      <input type="text" class="form-control" ng-model="pendingName" placeholder="Course name" />
+      <button class="btn btn-primary" ng-click="addPending()"><i class="fa fa-plus"></i>&nbsp;Add</button>
+    </form>
+
+  </div>
+  <div class="col-md-4">
+    <h2>Suggested Courses</h2>
+
+    <button class="btn btn-primary" ng-click="generate()">Generate Plan</button>
+
+    <div ng-repeat="s in suggested">
+      <h2>Semester {{ $index + 1 }}</h2>
+      <ul>
+        <li ng-repeat="c in s">{{ c.name }} ({{ c.hours }})</li>
+      </ul>
+    </div>
+
+  </div>
+</div>

@@ -14,11 +14,16 @@ module.exports = function planDegree(taken, pending, load) {
 
   // Get them
   while (pending.length > 0) {
+    var rem = [];
+
     // Find all eligible courses
-    var eligible = pending.filter(function(course) {
+    var eligible = pending.map(function(course) {
+      return courses.details(course);
+    }).filter(function(course) {
       return courses.canTake(taken, course);
     }).map(function(course) {
-      return courses.details(course);
+      rem.push(course.name);
+      return course;
     });
 
     // Find hours and put them in
@@ -28,12 +33,24 @@ module.exports = function planDegree(taken, pending, load) {
     while (eligible.length > 0 && remaining > 0) {
       var next = eligible.pop();
       if (remaining - next.hours > 0) {
-        sem.push(next.name);
+        sem.push(next);
       }
+    }
+
+    if (rem.length === 0) {
+      // No change
+      break;
     }
 
     // Add to plan
     plan.push(sem);
+
+    // Remove from pending
+    rem.map(function(course) {
+      pending.splice(pending.indexOf(course), 1);
+    });
+
+    taken = taken.concat(rem);
   }
 
   // Return
