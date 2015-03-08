@@ -12,7 +12,7 @@ angular.module('app', ['ui.router'])
 
 })
 
-.controller('HomeCtrl', function($scope) {
+.controller('HomeCtrl', function($scope, $http) {
   $scope.test = 1;
 
   $scope.taken = [];
@@ -40,4 +40,12 @@ angular.module('app', ['ui.router'])
     }
     $scope.pendingName = '';
   };
+
+  $http.get('/data/taken.json').then(function(res) {
+    $scope.taken = res.data;
+  });
+
+  $http.get('/data/pending.json').then(function(res) {
+    $scope.pending = res.data;
+  });
 });
