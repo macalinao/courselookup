@@ -52,6 +52,6 @@ request.get(BASE + degreeId).promise().then((data) => {
     s = s.next();
   }
 
-  console.log(JSON.stringify(groups, null, 4));
+  console.log(JSON.stringify(groups, null, 2));
 
 });
