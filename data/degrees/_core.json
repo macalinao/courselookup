@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Communication",
+    "credits": 6,
+    "classes": [
+      "COMM 1311",
+      "RHET 1302",
+      "ECS 3390"
+    ]
+  },
+
+  {
+    "name": "Mathematics",
+    "credits": 3,
+    "classes": [
+      "MATH 1306",
+      "MATH 1314",
+      "MATH 1316",
+      "MATH 1325",
+      "MATH 2312",
+      "MATH 2413",
+      "MATH 2414",
+      "MATH 2415",
+      "MATH 2417",
+      "PSY 2317",
+      "STAT 1342",
+      "STAT 2332"
+    ]
+  },
+
+  {
+    "name": "Science",
+    "credits": 6,
+    "classes": [
+      "BIOL 1300",
+      "BIOL 1318",
+      "BIOL 2311",
+      "BIOL 2312",
+      "BIOL 2350",
+      "CGS 2301",
+      "CHEM 1311",
+      "CHEM 1312",
+      "CHEM 1315",
+      "CHEM 1316",
+      "ENVR 2302",
+      "GEOG 2302",
+      "GEOS 1303",
+      "GEOS 1304",
+      "GEOS 2302",
+      "GEOS 2310",
+      "GEOS 2321",
+      "GEOS 2332",
+      "GEOS 2333",
+      "GEOS 2409",
+      "ISIS 2305",
+      "ISIS 2308",
+      "ISNS 2359",
+      "ISNS 2367",
+      "ISNS 2368",
+      "NATS 1311",
+      "NATS 2330",
+      "NATS 2333",
+      "PHYS 1301",
+      "PHYS 1302",
+      "PHYS 2125",
+      "PHYS 2325",
+      "PHYS 2326",
+      "PHYS 2421",
+      "PHYS 2422",
+      "PSY 2364"
+    ]
+  },
+
+  {
+    "name": "Language",
+    "credits": 3,
+    "classes": [
+      "AMS 2300",
+      "AMS 2341",
+      "HUMA 1301",
+      "LIT 2331",
+      "PHIL 1301",
+      "PHIL 2316",
+      "PHIL 2317"
+    ]
+  },
+
+  {
+    "name": "Arts",
+    "credits": 3,
+    "classes": [
+      "AHST 1303",
+      "AHST 1304",
+      "AHST 2331",
+      "ARTS 1301",
+      "DANC 1310",
+      "DRAM 1310",
+      "FILM 2332",
+      "MUSI 1306"
+    ]
+  },
+
+  {
+    "name": "History",
+    "credits": 6,
+    "classes": [
+      "HIST 1301",
+      "HIST 1302",
+      "HIST 2301",
+      "HIST 2330",
+      "HIST 2332"
+    ]
+  },
+
+  {
+    "name": "Government",
+    "credits": 6,
+    "classes": [
+      "GOVT 2107",
+      "GOVT 2305",
+      "GOVT 2306",
+      "GOVT 2305",
+      "GOVT 2306",
+      "GOVT 2305",
+      "GOVT 2306",
+      "GOVT 2306",
+      "GOVT 2305",
+      "GOVT 2301",
+      "GOVT 2302",
+      "GOVT 2305",
+      "GOVT 2306",
+      "GOVT 2302",
+      "GOVT 2301",
+      "GOVT 2305",
+      "GOVT 2306"
+    ]
+  },
+
+  {
+    "name": "Behavioral",
+    "credits": 3,
+    "classes": [
+      "CLDP 2314",
+      "CRIM 1301",
+      "CRIM 1307",
+      "ECON 2301",
+      "ECON 2302",
+      "ECS 3361",
+      "GEOG 2303",
+      "GST 2300",
+      "PA 2325",
+      "PSY 2301",
+      "PSY 2314",
+      "SOC 1301",
+      "SOC 2320"
+    ]
+  },
+
+  {
+    "name": "Component",
+    "credits": 6,
+    "classes": [
+      "MATH 1306",
+      "MATH 1314",
+      "MATH 1316",
+      "MATH 1325",
+      "MATH 2312",
+      "MATH 2413",
+      "MATH 2414",
+      "MATH 2415",
+      "MATH 2417",
+      "PSY 2317",
+      "STAT 1342",
+      "STAT 2332",
+      "BIOL 1300",
+      "BIOL 1318",
+      "BIOL 2311",
+      "BIOL 2312",
+      "BIOL 2350",
+      "CGS 2301",
+      "CHEM 1311",
+      "CHEM 1312",
+      "CHEM 1315",
+      "CHEM 1316",
+      "ENVR 2302",
+      "GEOG 2302",
+      "GEOS 1303",
+      "GEOS 1304",
+      "GEOS 2302",
+      "GEOS 2310",
+      "GEOS 2321",
+      "GEOS 2332",
+      "GEOS 2333",
+      "GEOS 2409",
+      "ISNS 2359",
+      "ISNS 2367",
+      "ISNS 2368",
+      "NATS 1311",
+      "NATS 2330",
+      "NATS 2333",
+      "PHYS 1301",
+      "PHYS 1302",
+      "PHYS 2125",
+      "PHYS 2325",
+      "PHYS 2326",
+      "PHYS 2421",
+      "PHYS 2422",
+      "PSY 2364",
+      "CLDP 2314",
+      "ECON 2301",
+      "ECON 2302",
+      "PSY 2301",
+      "PSY 2314",
+      "ARHM 2340",
+      "ARHM 2341",
+      "ARHM 2342",
+      "ARHM 2343",
+      "EPPS 2301",
+      "EPPS 2302",
+      "EPPS 2303",
+      "MATH 1326",
+      "MATH 2419"
+    ]
+  }
+]
