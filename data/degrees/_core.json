@@ -2,6 +2,7 @@
   {
     "name": "Communication",
     "credits": 6,
+    "degree": "Core",
     "classes": [
       "COMM 1311",
       "RHET 1302",
@@ -12,6 +13,7 @@
   {
     "name": "Mathematics",
     "credits": 3,
+    "degree": "Core",
     "classes": [
       "MATH 1306",
       "MATH 1314",
@@ -31,6 +33,7 @@
   {
     "name": "Science",
     "credits": 6,
+    "degree": "Core",
     "classes": [
       "BIOL 1300",
       "BIOL 1318",
@@ -74,6 +77,7 @@
   {
     "name": "Language",
     "credits": 3,
+    "degree": "Core",
     "classes": [
       "AMS 2300",
       "AMS 2341",
@@ -88,6 +92,7 @@
   {
     "name": "Arts",
     "credits": 3,
+    "degree": "Core",
     "classes": [
       "AHST 1303",
       "AHST 1304",
@@ -103,6 +108,7 @@
   {
     "name": "History",
     "credits": 6,
+    "degree": "Core",
     "classes": [
       "HIST 1301",
       "HIST 1302",
@@ -115,6 +121,7 @@
   {
     "name": "Government",
     "credits": 6,
+    "degree": "Core",
     "classes": [
       "GOVT 2107",
       "GOVT 2305",
@@ -139,6 +146,7 @@
   {
     "name": "Behavioral",
     "credits": 3,
+    "degree": "Core",
     "classes": [
       "CLDP 2314",
       "CRIM 1301",
@@ -159,6 +167,7 @@
   {
     "name": "Component",
     "credits": 6,
+    "degree": "Core",
     "classes": [
       "MATH 1306",
       "MATH 1314",
