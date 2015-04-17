@@ -32,11 +32,6 @@ request.get(BASE + degreeId).promise().then((data) => {
     } else if (s.hasClass('cat-reqi')) {
       let text = s.text();
 
-      if (!/^[A-Z]{2,4} [\d]{4}/.test(text.trim())) {
-        s = s.next();
-        continue;
-      }
-
       if (text.trim().startsWith('or')) {
         let end = group.classes[group.classes.length - 1];
         if (!Array.isArray(end)) {
@@ -45,6 +40,12 @@ request.get(BASE + degreeId).promise().then((data) => {
         }
         end.push($(s).find('a').first().text());
       } else {
+
+        if (!/^[A-Z]{2,4} [\d]{4}/.test(text.trim())) {
+          s = s.next();
+          continue;
+        }
+
         group.classes.push($(s).find('a').first().text());
       }
 
