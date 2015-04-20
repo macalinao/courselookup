@@ -22,7 +22,7 @@
     "course"
   ],
   "scripts": {
-    "test": "./node_modules/.bin/mocha -R spec",
+    "test": "mocha --compilers js:babel/register -R spec --recursive",
     "start": "babel-node lib/index"
   },
   "devDependencies": {
