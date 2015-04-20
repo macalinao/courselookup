@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Major Preparatory Courses",
+    "credits": 24,
+    "degree": "Bachelor of Science in Neuroscience",
+    "classes": [
+      "BIOL 2111",
+      "BIOL 2281",
+      "BIOL 2311",
+      "CHEM 1111",
+      "CHEM 1311",
+      "CHEM 1112",
+      "CHEM 1312",
+      "MATH 2414",
+      "PSY 2301",
+      "PSY 2317"
+    ]
+  },
+  {
+    "title": "Major Core Courses",
+    "credits": 24,
+    "degree": "Bachelor of Science in Neuroscience",
+    "classes": [
+      "NSC 3361",
+      "NSC 4352",
+      "NSC 4353",
+      "NSC 4354",
+      "NSC 4356",
+      "NSC 4363",
+      "NSC 4366",
+      "NSC 4357"
+    ]
+  },
+  {
+    "title": "Major Related Courses",
+    "credits": 15,
+    "degree": "Bachelor of Science in Neuroscience",
+    "classes": [
+      "BIOL 3101",
+      "BIOL 3301",
+      "BIOL 3102",
+      "BIOL 3302",
+      "BIOL 3161",
+      "BIOL 3361",
+      "BIOL 3162",
+      "BIOL 3362",
+      "BIOL 3455",
+      "BIOL 3456",
+      "NSC 3344",
+      "NSC 3345",
+      "NSC 4188",
+      "NSC 4351",
+      "NSC 4355",
+      "NSC 4357",
+      "NSC 4358",
+      "NSC 4359",
+      "NSC 4362",
+      "NSC 4364",
+      "NSC 4367",
+      "NSC 4370",
+      "NSC 4371",
+      "NSC 4372",
+      "NSC 4373",
+      "NSC 4374",
+      "NSC 4375",
+      "NSC 4376",
+      "NSC 4378",
+      "NSC 4385",
+      "NSC 4387",
+      "NSC 4388",
+      "NSC 4394",
+      "NSC 4397",
+      "PSY 4362",
+      "SPAU 3304"
+    ]
+  }
+]
