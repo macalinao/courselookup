@@ -1,8 +1,33 @@
 [
   {
+    "title": "Core Curriculum Requirements",
+    "degree": "",
+    "classes": [
+      "RHET 1302",
+      "ECS 3390",
+      [
+        "MATH 2413",
+        "MATH 2417"
+      ],
+      "5",
+      "PHYS 2325",
+      "PHYS 2326",
+      "GOVT 2305",
+      "GOVT 2306",
+      "ECS 3361",
+      [
+        "MATH 2413",
+        "MATH 2417"
+      ],
+      "MATH 2419",
+      "PHYS 2125"
+    ],
+    "suggestion": true
+  },
+  {
     "title": "Major Preparatory Courses",
     "credits": 20,
-    "degree": "Bachelor of Science in Computer Science",
+    "degree": "",
     "classes": [
       "ECS 1200",
       "CS 1337",
@@ -26,7 +51,7 @@
   {
     "title": "Major Core Courses",
     "credits": 39,
-    "degree": "Bachelor of Science in Computer Science",
+    "degree": "",
     "classes": [
       "CS 3162",
       "CS 3305",
@@ -49,7 +74,7 @@
   {
     "title": "Major Guided Electives",
     "credits": 9,
-    "degree": "Bachelor of Science in Computer Science",
+    "degree": "",
     "classes": [
       "CS 4314",
       "CS 4315",

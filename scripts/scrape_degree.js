@@ -8,16 +8,47 @@ let degreeId = process.argv[2];
 
 request.get(BASE + degreeId).promise().then((data) => {
   let $ = cheerio.load(data.text);
-  let cat = $('.cat-reqa').filter(function() {
-    return $(this).text().trim().startsWith('II');
-  })[0];
 
   let degree = $(cat).prevAll('h3').first().text();
 
-  let s = $(cat).next();
-
   let groups = [];
-  let group = {};
+  let group = {
+    title: 'Core Curriculum Requirements',
+    degree,
+    classes: [],
+    suggestion: true
+  };
+  groups.push(group);
+
+  // Part 1 -- core curriculum
+  let cat = $('.cat-reqa').filter(function() {
+    return $(this).text().trim().startsWith('I.');
+  })[0];
+  let p = $(cat).next();
+  while (!p.hasClass('cat-reqa')) {
+
+    let text = p.text().trim();
+    let className = $(p).find('a').first().text();
+    p = $(p).next();
+    if (!className) {
+      continue;
+    }
+
+    if (text.startsWith('or')) {
+      let end = group.classes[group.classes.length - 1];
+      if (!Array.isArray(end)) {
+        end = [end];
+        group.classes[group.classes.length - 1] = end;
+      }
+      end.push(className);
+    } else {
+      group.classes.push(className);
+    }
+
+  }
+
+  // Part 2
+  let s = $(p).next();
 
   while (!s.hasClass('cat-reqa')) {
     if (s.hasClass('cat-reqg')) {

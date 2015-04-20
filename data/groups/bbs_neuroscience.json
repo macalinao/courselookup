@@ -1,8 +1,46 @@
 [
   {
+    "title": "Core Curriculum Requirements",
+    "degree": "",
+    "classes": [
+      "COMM 1311",
+      "RHET 1302",
+      [
+        "MATH 2414",
+        "MATH 2417"
+      ],
+      "CHEM 1311",
+      "BIOL 2311",
+      "HUMA 1301",
+      "LIT 2331",
+      "PHIL 1301",
+      "PHIL 2316",
+      "PHIL 2317",
+      "AHST 1303",
+      "AHST 1304",
+      "AHST 2331",
+      "ARTS 1301",
+      "DANC 1310",
+      "DRAM 1310",
+      "FILM 2332",
+      "MUSI 1306",
+      "HIST 1301",
+      "HIST 1302",
+      "HIST 2301",
+      "HIST 2330",
+      "HIST 2332",
+      "GOVT 2305",
+      "GOVT 2306",
+      "PSY 2301",
+      "PSY 2317",
+      "CHEM 1312"
+    ],
+    "suggestion": true
+  },
+  {
     "title": "Major Preparatory Courses",
     "credits": 24,
-    "degree": "Bachelor of Science in Neuroscience",
+    "degree": "",
     "classes": [
       "BIOL 2111",
       "BIOL 2281",
@@ -19,7 +57,7 @@
   {
     "title": "Major Core Courses",
     "credits": 24,
-    "degree": "Bachelor of Science in Neuroscience",
+    "degree": "",
     "classes": [
       "NSC 3361",
       "NSC 4352",
@@ -34,7 +72,7 @@
   {
     "title": "Major Related Courses",
     "credits": 15,
-    "degree": "Bachelor of Science in Neuroscience",
+    "degree": "",
     "classes": [
       "BIOL 3101",
       "BIOL 3301",
