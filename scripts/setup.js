@@ -7,7 +7,7 @@ import P from 'bluebird';
 P.promisifyAll(fs);
 
 console.log('Connecting to database...');
-let db = mongojs(process.env.MONGOLAB_URI || 'mongodb://localhost:27017/coursesuggest');
+let db = mongojs(process.env.MONGOLAB_URI || 'mongodb://localhost:27017/courselookup');
 console.log('    Connected.');
 
 console.log('Clearing degrees collection...');
