@@ -1,1 +1,1 @@
-web: node index
+web: babel-node lib/index
