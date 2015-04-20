@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import cheerio from 'cheerio';
 import request from 'superagent-bluebird-promise';
 
@@ -16,11 +17,17 @@ request.get(BASE + degreeId).promise().then((data) => {
   let s = $(cat).next();
 
   let groups = [];
-  let group = null;
+  let group = {};
 
   while (!s.hasClass('cat-reqa')) {
     if (s.hasClass('cat-reqg')) {
       let titleSplit = s.text().split(':');
+
+      // Remove duplicates if we're making a new group
+      if (group.classes) {
+        group.classes = _.uniq(group.classes);
+      }
+
       group = {
         title: titleSplit[0].trim(),
         credits: parseInt(titleSplit[1].trim().split(' ')[0]),
@@ -50,6 +57,7 @@ request.get(BASE + degreeId).promise().then((data) => {
       }
 
     }
+
     s = s.next();
   }
 
