@@ -35,23 +35,23 @@ fs.readdirAsync(GROUPS_DIR).map((filename) => {
   return promise.then((file) => {
     let data = JSON.parse(file.toString());
 
-    let id = filename.split('.')[0];
+    let slug = filename.split('.')[0];
 
     // Insert degrees
-    if (!degreesMap[id]) {
+    if (!degreesMap[slug]) {
 
       return degrees.insertAsync({
-        id: id,
+        slug: slug,
         name: data[0].degree
       }).then((degree) => {
         degree = degree[0];
-        degreesMap[degree.id] = degree;
+        degreesMap[degree.slug] = degree;
         return { degree, data };
       });
 
     } else {
 
-      let degree = degreesMap[id];
+      let degree = degreesMap[slug];
       return { degrees, data };
 
     }
