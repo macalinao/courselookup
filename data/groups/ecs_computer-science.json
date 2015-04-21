@@ -1,7 +1,7 @@
 [
   {
     "title": "Core Curriculum Requirements",
-    "degree": "",
+    "degree": "Bachelor of Science in Computer Science",
     "classes": [
       "RHET 1302",
       "ECS 3390",
@@ -26,7 +26,7 @@
   {
     "title": "Major Preparatory Courses",
     "credits": 20,
-    "degree": "",
+    "degree": "Bachelor of Science in Computer Science",
     "classes": [
       "ECS 1200",
       "CS 1337",
@@ -50,7 +50,7 @@
   {
     "title": "Major Core Courses",
     "credits": 39,
-    "degree": "",
+    "degree": "Bachelor of Science in Computer Science",
     "classes": [
       "CS 3162",
       "CS 3305",
@@ -73,7 +73,7 @@
   {
     "title": "Major Guided Electives",
     "credits": 9,
-    "degree": "",
+    "degree": "Bachelor of Science in Computer Science",
     "classes": [
       "CS 4314",
       "CS 4315",

@@ -1,7 +1,7 @@
 [
   {
     "title": "Core Curriculum Requirements",
-    "degree": "",
+    "degree": "Bachelor of Science in Neuroscience",
     "classes": [
       "COMM 1311",
       "RHET 1302",
@@ -40,7 +40,7 @@
   {
     "title": "Major Preparatory Courses",
     "credits": 24,
-    "degree": "",
+    "degree": "Bachelor of Science in Neuroscience",
     "classes": [
       "BIOL 2111",
       "BIOL 2281",
@@ -57,7 +57,7 @@
   {
     "title": "Major Core Courses",
     "credits": 24,
-    "degree": "",
+    "degree": "Bachelor of Science in Neuroscience",
     "classes": [
       "NSC 3361",
       "NSC 4352",
@@ -72,7 +72,7 @@
   {
     "title": "Major Related Courses",
     "credits": 15,
-    "degree": "",
+    "degree": "Bachelor of Science in Neuroscience",
     "classes": [
       "BIOL 3101",
       "BIOL 3301",

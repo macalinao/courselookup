@@ -9,6 +9,10 @@ let degreeId = process.argv[2];
 request.get(BASE + degreeId).promise().then((data) => {
   let $ = cheerio.load(data.text);
 
+  // Part 1 -- core curriculum
+  let cat = $('.cat-reqa').filter(function() {
+    return $(this).text().trim().startsWith('I.');
+  })[0];
   let degree = $(cat).prevAll('h3').first().text();
 
   let groups = [];
@@ -20,10 +24,6 @@ request.get(BASE + degreeId).promise().then((data) => {
   };
   groups.push(group);
 
-  // Part 1 -- core curriculum
-  let cat = $('.cat-reqa').filter(function() {
-    return $(this).text().trim().startsWith('I.');
-  })[0];
   let p = $(cat).next();
   while (!p.hasClass('cat-reqa')) {
 
