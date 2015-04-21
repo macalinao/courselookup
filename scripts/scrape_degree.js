@@ -30,7 +30,7 @@ request.get(BASE + degreeId).promise().then((data) => {
     let text = p.text().trim();
     let className = $(p).find('a').first().text();
     p = $(p).next();
-    if (!className) {
+    if (!className || !/^[A-Z]{2,4}/.test(className)) {
       continue;
     }
 
