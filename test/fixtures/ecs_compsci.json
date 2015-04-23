@@ -1,0 +1,66 @@
+[{
+  "title": "Core Curriculum Requirements",
+  "degree": "55369783eb712f8d2e74cd7f",
+  "classes": ["RHET 1302", "ECS 3390", ["MATH 2413", "MATH 2417"], "PHYS 2325", "PHYS 2326", "GOVT 2305", "GOVT 2306", "ECS 3361", ["MATH 2413", "MATH 2417"], "MATH 2419", "PHYS 2125"],
+  "suggestion": true
+}, {
+  "title": "Major Preparatory Courses",
+  "credits": 20,
+  "degree": "55369783eb712f8d2e74cd7f",
+  "classes": ["ECS 1200", "CS 1337", "CS 2305", "CS 2336", ["MATH 2413", "MATH 2417"], "MATH 2418", ["MATH 2414", "MATH 2419"], "PHYS 2125", "PHYS 2126", "PHYS 2325", "PHYS 2326"]
+}, {
+  "title": "Major Core Courses",
+  "credits": 39,
+  "degree": "55369783eb712f8d2e74cd7f",
+  "classes": ["CS 3162", "CS 3305", "CS 3340", "CS 3341", "CS 3345", "CS 3354", "CS 3376", "ECS 3361", "ECS 3390", "CS 4141", "CS 4337", "CS 4341", "CS 4348", "CS 4349", "CS 4384", "CS 4485"]
+}, {
+  "title": "Major Guided Electives",
+  "credits": 9,
+  "degree": "55369783eb712f8d2e74cd7f",
+  "classes": ["CS 4314", "CS 4315", "CS 4334", "CS 4336", "CS 4347", "CS 4352", "CS 4353", "CS 4361", "CS 4365", "CS 4375", "CS 4376", "CS 4386", "CS 4389", "CS 4390", "CS 4391", "CS 4392", "CS 4393", "CS 4394", "CS 4395", "CS 4396", "CS 4397", "CS 4398", "CS 4399", "EE 4325", "SE 4351", "SE 4352", "SE 4367", "SE 4381", "SE 4485"]
+}, {
+  "name": "Communication",
+  "credits": 6,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["COMM 1311", "RHET 1302", "ECS 3390"]
+}, {
+  "name": "Language",
+  "credits": 3,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["AMS 2300", "AMS 2341", "HUMA 1301", "LIT 2331", "PHIL 1301", "PHIL 2316", "PHIL 2317"]
+}, {
+  "name": "Arts",
+  "credits": 3,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["AHST 1303", "AHST 1304", "AHST 2331", "ARTS 1301", "DANC 1310", "DRAM 1310", "FILM 2332", "MUSI 1306"]
+}, {
+  "name": "History",
+  "credits": 6,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["HIST 1301", "HIST 1302", "HIST 2301", "HIST 2330", "HIST 2332"]
+}, {
+  "name": "Government",
+  "credits": 6,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["GOVT 2107", "GOVT 2301", "GOVT 2302", "GOVT 2305", "GOVT 2306"]
+}, {
+  "name": "Behavioral",
+  "credits": 3,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["CLDP 2314", "CRIM 1301", "CRIM 1307", "ECON 2301", "ECON 2302", "ECS 3361", "GEOG 2303", "GST 2300", "PA 2325", "PSY 2301", "PSY 2314", "SOC 1301", "SOC 2320"]
+}, {
+  "name": "Component",
+  "credits": 6,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["MATH 1306", "MATH 1314", "MATH 1316", "MATH 1325", "MATH 2312", "MATH 2413", "MATH 2414", "MATH 2415", "MATH 2417", "PSY 2317", "STAT 1342", "STAT 2332", "BIOL 1300", "BIOL 1318", "BIOL 2311", "BIOL 2312", "BIOL 2350", "CGS 2301", "CHEM 1311", "CHEM 1312", "CHEM 1315", "CHEM 1316", "ENVR 2302", "GEOG 2302", "GEOS 1303", "GEOS 1304", "GEOS 2302", "GEOS 2310", "GEOS 2321", "GEOS 2332", "GEOS 2333", "GEOS 2409", "ISNS 2359", "ISNS 2367", "ISNS 2368", "NATS 1311", "NATS 2330", "NATS 2333", "PHYS 1301", "PHYS 1302", "PHYS 2125", "PHYS 2325", "PHYS 2326", "PHYS 2421", "PHYS 2422", "PSY 2364", "CLDP 2314", "ECON 2301", "ECON 2302", "PSY 2301", "PSY 2314", "ARHM 2340", "ARHM 2341", "ARHM 2342", "ARHM 2343", "EPPS 2301", "EPPS 2302", "EPPS 2303", "MATH 1326", "MATH 2419"]
+}, {
+  "name": "Mathematics",
+  "credits": 3,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["MATH 1306", "MATH 1314", "MATH 1316", "MATH 1325", "MATH 2312", "MATH 2413", "MATH 2414", "MATH 2415", "MATH 2417", "PSY 2317", "STAT 1342", "STAT 2332"]
+}, {
+  "name": "Science",
+  "credits": 6,
+  "degree": "55369783eb712f8d2e74cd7d",
+  "classes": ["BIOL 1300", "BIOL 1318", "BIOL 2311", "BIOL 2312", "BIOL 2350", "CGS 2301", "CHEM 1311", "CHEM 1312", "CHEM 1315", "CHEM 1316", "ENVR 2302", "GEOG 2302", "GEOS 1303", "GEOS 1304", "GEOS 2302", "GEOS 2310", "GEOS 2321", "GEOS 2332", "GEOS 2333", "GEOS 2409", "ISIS 2305", "ISIS 2308", "ISNS 2359", "ISNS 2367", "ISNS 2368", "NATS 1311", "NATS 2330", "NATS 2333", "PHYS 1301", "PHYS 1302", "PHYS 2125", "PHYS 2325", "PHYS 2326", "PHYS 2421", "PHYS 2422", "PSY 2364"]
+}]
