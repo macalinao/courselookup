@@ -17,7 +17,7 @@ request.get(BASE + degreeId).promise().then((data) => {
 
   let groups = [];
   let group = {
-    title: 'Core Curriculum Requirements',
+    name: 'Core Curriculum Requirements',
     degree,
     classes: [],
     suggestion: true

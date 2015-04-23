@@ -1,6 +1,6 @@
 [
   {
-    "title": "Core Curriculum Requirements",
+    "name": "Core Curriculum Requirements",
     "degree": "Bachelor of Science in Neuroscience",
     "classes": [
       "COMM 1311",
@@ -38,7 +38,7 @@
     "suggestion": true
   },
   {
-    "title": "Major Preparatory Courses",
+    "name": "Major Preparatory Courses",
     "credits": 24,
     "degree": "Bachelor of Science in Neuroscience",
     "classes": [
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "title": "Major Core Courses",
+    "name": "Major Core Courses",
     "credits": 24,
     "degree": "Bachelor of Science in Neuroscience",
     "classes": [
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "title": "Major Related Courses",
+    "name": "Major Related Courses",
     "credits": 15,
     "degree": "Bachelor of Science in Neuroscience",
     "classes": [

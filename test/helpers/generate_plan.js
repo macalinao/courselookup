@@ -13,7 +13,7 @@ describe('generate plan', () => {
           fs.readFileSync(__dirname + '/../fixtures/ecs_compsci.json').toString())
     });
 
-    console.log(JSON.stringify(plan));
+    console.log(JSON.stringify(plan, null, 4));
 
   });
 

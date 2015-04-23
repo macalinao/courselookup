@@ -1,6 +1,6 @@
 [
   {
-    "title": "Core Curriculum Requirements",
+    "name": "Core Curriculum Requirements",
     "degree": "Bachelor of Science in Computer Science",
     "classes": [
       "RHET 1302",
@@ -24,7 +24,7 @@
     "suggestion": true
   },
   {
-    "title": "Major Preparatory Courses",
+    "name": "Major Preparatory Courses",
     "credits": 20,
     "degree": "Bachelor of Science in Computer Science",
     "classes": [
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "title": "Major Core Courses",
+    "name": "Major Core Courses",
     "credits": 39,
     "degree": "Bachelor of Science in Computer Science",
     "classes": [
@@ -71,7 +71,7 @@
     ]
   },
   {
-    "title": "Major Guided Electives",
+    "name": "Major Guided Electives",
     "credits": 9,
     "degree": "Bachelor of Science in Computer Science",
     "classes": [
